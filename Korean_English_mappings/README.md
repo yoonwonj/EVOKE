@@ -24,12 +24,12 @@ This dataset contains many-to-many translation mappings between Korean and Engli
 
 ## Notes on Lexical Gaps
 1. Collocations and free-form expressions are not considered as single lexical entries:
-    - Entries consisting of more than two words are identified as gap words by default (coded as 1). 
-    - Hyphenated forms, however, are treated as single lexical items and are not considered gap words (coded as 0), e.g., *cliché-ridden*.
-    - Korean words that are used both as single words and as multi-word with a space bar in between two words were left as a single entry: *'깜짝 놀란'*, *'신이 난'*, *'눈물 어린'*, *'겁에 질린'*, *'겁이 많은'*, *'사려 깊은'*, *'수배 중인'*, *'가슴 시린'*
+    - Entries consisting of more than two words are identified as gap words by default (`Translational_Equivalence`==0). 
+    - Hyphenated forms, however, are treated as single lexical items and are not considered gap words (`Translational_Equivalence`==1), e.g., *cliché-ridden*.
+    - Korean words that are used both as single words and as multi-word phrases with a space bar in between two words were left as single-word entries, and were not considered gap words (`Translational_Equivalence`==1): *'깜짝 놀란'*, *'신이 난'*, *'눈물 어린'*, *'겁에 질린'*, *'겁이 많은'*, *'사려 깊은'*, *'수배 중인'*, *'가슴 시린'*
 2. Gaps identified in this dataset are restricted to semantic gaps. 
-only the gaps exhibiting meaningful conceptual differences were coded as 0
-    - Verb entries with *be-* constructions, noun entries with *being-* constructions, and noun entries with *sense of-* constructions are not coded as gaps (coded as 1)
+only the gaps exhibiting meaningful conceptual differences were identified as lexical gaps (`Translational_Equivalence`==0)
+    - Verb entries with *be-* constructions, noun entries with *being-* constructions, and noun entries with *sense of-* constructions are not coded as gaps (`Translational_Equivalence`==1)
     - Idioms and conventionalized collocations are identified as gaps; corresponding idiomatic expressions are recorded in the Note column.
     - Entries without established idiomatic expressions in the target language (i.e. free-form experessions), dictionary-definition-based glosses written in the target language are provided in the Note column.
 3. Since gap words do not have direct target-language equivalents, multiple rows were created to represent different meanings of the same source word, based on dictionary entries.
