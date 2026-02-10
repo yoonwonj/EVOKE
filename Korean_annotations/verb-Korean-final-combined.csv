@@ -1,0 +1,236 @@
+﻿Coder_ID,Pair_Type,Word_ID,Pair_ID,Korean_Word,POS,Note,They_Sentence,They_Q1,They_Q2,Bodily_Physical,Epistemic,Behavioral_Result,Additional_Meaning,Distinctiveness,Relatedness,I_Sentence,Causing,Caused,Meaning_label
+1,noun-adj,19,13,갈등하다,verb,,그들이 갈등했다,yes,no,no,no,no,no,,,나는 갈등했다,no,yes,1
+1,noun-adj,22,14,갈망하다,verb,,그들이 갈망했다,yes,no,no,no,no,no,,,나는 갈망했다,no,yes,1
+1,noun-adj,24,16,감동하다,verb,,그들이 감동했다,yes,no,no,no,no,no,,,나는 감동했다,no,yes,1
+1,noun-adj,32,19,감복하다,verb,,그들이 감복했다,yes,no,no,no,no,no,,,나는 감복했다,no,yes,1
+1,noun-adj,36,20,감사하다,verb,,그들이 감사했다,yes,no,no,no,no,no,,,나는 감사했다,no,yes,1
+1,verb,40,22,감정하다,verb,,그들이 감정했다,no,no,no,yes,no,no,,,나는 감정했다,no,no,1
+1,noun-adj,43,23,감탄하다,verb,,그들이 감탄했다,yes,no,no,no,no,no,,,나는 감탄했다,no,yes,1
+1,verb,50,28,개의치않다,verb,,그들은 개의치 않았다,yes,no,no,no,no,no,,,나는 개의치 않았다,no,no,1
+1,verb,51,28,개의하다,verb,,그들이 개의했다,yes,no,no,no,no,no,,,나는 개의했다,no,yes,1
+1,noun-adj,54,29,개탄하다,verb,,그들이 개탄했다,yes,no,no,no,no,no,,,나는 개탄했다,no,yes,1
+1,noun-adj,67,37,거슬리다,verb,,그들은 거슬렸다,yes,no,no,no,no,yes,yes,yes,나는 거슬렸다,no,yes,1
+1,noun-adj,67,37,거슬리다,verb,physically,그들은 거슬렸다,yes,no,yes,no,no,yes,yes,yes,나는 거슬렸다,no,yes,2
+1,noun-adj,76,40,걱정하다,verb,,그들이 걱정했다,yes,no,no,no,no,no,,,나는 걱정했다,no,yes,1
+2,noun-adj,78,41,겁나다,verb,,그들은 겁났다/겁난다,yes,no,no,no,no,no,,,나는 겁난다,no,yes,1
+2,noun-adj,80,41,겁내다,verb,makes more sense with an object,그들은 겁낸다,yes,no,no,no,no,no,,,나는 겁낸다,no,yes,1
+2,noun-adj,91,45,격분하다,verb,,그들은 격분한다,yes,no,no,no,no,no,,,나는 격분한다,no,yes,1
+2,no-pair,101,49,격하다,verb,,그들은 격하다,no,yes,no,no,no,no,,,나는 격하다,yes,yes,1
+2,noun-adj,110,56,경계하다,verb,,그들은 경계한다,yes,no,no,no,no,no,,,나는 경계한다,no,yes,1
+2,verb,112,57,경멸하다,verb,makes more sense with an object,그들은 경멸한다,yes,no,no,no,no,no,,,나는 경멸한다,no,yes,1
+2,noun-adj,114,58,경악하다,verb,,그들은 경악한다,yes,no,no,no,no,no,,,나는 경악한다,no,yes,1
+2,verb,117,59,경외하다,verb,makes more sense with an object,그들은 경외한다,yes,no,no,no,no,no,,,나는 경외한다,no,yes,1
+2,noun-adj,123,63,경탄하다,verb,,그들은 경탄한다,yes,no,no,no,no,no,,,나는 경탄한다,no,yes,1
+2,noun-adj,125,64,고뇌하다,verb,,그들은 고뇌한다,yes,no,no,no,no,no,,,나는 고뇌한다,no,yes,1
+2,no-pair,130,67,고대하다,verb,,그들은 고대한다,yes,no,no,no,no,no,,,나는 고대한다,no,yes,1
+2,noun-adj,137,71,고마워하다,verb,,그들은 고마워한다,yes,no,no,no,no,no,,,나는 고마워한다,no,yes,1
+2,verb-adj,139,72,고무되다,verb,,그들은 고무된다,yes,no,no,no,no,no,,,나는 고무된다,no,yes,1
+2,noun-adj,143,73,고민하다,verb,,그들은 고민한다,yes,no,no,no,no,no,,,나는 고민한다,no,yes,1
+2,no-pair,144,74,고심하다,verb,,그들은 고심한다,yes,no,no,no,no,no,,,나는 고심한다,no,yes,1
+2,no-pair,150,78,골나다,verb,,그들은 골났다,yes,no,no,no,no,no,,,나는 골났다,no,yes,1
+2,verb,152,79,공감하다,verb,,그들은 공감한다,yes,no,no,no,no,no,,,나는 공감한다,no,yes,1
+1,verb,176,93,교감하다,verb,,그들이/은 교감한다/교감했다,yes,no,no,no,no,no,,,나는 교감한다/교감했다,no,no,1
+1,noun-adj,692,97,슬퍼하다,verb,,그들이/은 슬퍼한다/슬퍼하다,yes,no,no,no,no,no,,,나는 슬퍼한다/슬퍼했다,no,no,1
+1,noun-adj,192,104,그리워하다,verb,,그들이/은 그리워하다/그리워한다,yes,no,no,no,no,no,,,나는 그리워한다/그리워했다,no,no,1
+1,verb,196,105,근심하다,verb,,그들이/은 근심한다/근심하다,yes,no,no,no,no,no,,,나는 근심한다/근심했다,no,yes,1
+1,noun-adj,202,111,기겁하다,verb,,그들이/은 기겁한다/기겁하다,yes,no,no,no,no,no,,,나는 기겁한다/기겁했다,no,yes,1
+1,noun-adj,205,114,기고만장하다,verb,,그들이/은 기고만장하다/기고만장한다,yes,no,no,no,no,no,,,나는 기고만장한다/기고만장했다,no,no,1
+1,noun-adj,210,117,기대하다,verb,,그들이/은 기대한다/기대했다,yes,no,no,no,no,no,,,나는 기대한다/기대했다,no,no,1
+1,verb,227,126,기원하다,verb,,그들이/은 기원한다/기원했다,yes,no,no,no,no,no,,,나는 기원한다/기원했다,no,no,1
+1,verb-adj,229,127,기절초풍하다,verb,,그들이/은 기절초풍하다/기절초풍한다,yes,no,no,no,no,no,,,나는 기절초풍한다/기절초풍했다,no,no,1
+1,verb,230,128,기죽다,verb,,그들이 기죽었다,yes,no,no,no,no,no,,,나는 기죽었다,no,yes,1
+1,noun-adj,233,130,긴장하다,verb,,그들이 긴장했다,yes,no,no,no,no,no,,,나는 긴장했다,no,yes,1
+1,verb,235,131,까무러치다,verb,surprised,그들이 까무러쳤다,yes,no,no,no,no,yes,yes,yes,나는 까무러쳤다,no,yes,1
+1,verb,235,131,까무러치다,verb,physical stun,그들이 까무러쳤다,no,yes,yes,no,no,yes,yes,yes,나는 까무러쳤다,no,yes,2
+1,no-pair,241,136,꺼리다,verb,,그들이 꺼렸다,yes,no,no,no,no,no,,,나는 꺼렸다,no,no,1
+1,noun-adj,247,141,낙담하다,verb,,그들이 낙담했다,yes,no,no,no,no,no,,,나는 낙담했다,no,yes,1
+1,noun-adj,250,142,낙망하다,verb,,그들이 낙망했다,yes,no,no,no,no,no,,,나는 낙망했다,no,yes,1
+1,noun-adj,252,143,낙심하다,verb,,그들이 낙심했다,yes,no,no,no,no,no,,,나는 낙심했다,no,yes,1
+1,verb,267,152,넌더리나다,verb,,그들이 넌더리났다,yes,no,no,no,no,no,,,나는 넌더리났다,no,yes,1
+1,noun-adj,271,154,노발대발하다,verb,,그들이 노발대발했다,no,no,no,no,yes,no,,,나는 노발대발했다,no,yes,1
+1,noun-adj,275,155,노하다,verb,,그들이 노했다,yes,no,no,no,no,no,,,나는 노했다,no,yes,1
+1,noun-adj,276,156,놀라다,verb,,그들이 놀랐다,yes,no,no,no,no,no,,,나는 놀랐다,no,yes,1
+1,verb-adj,1398,156,놀리다,verb,need object,그들이 놀렸다,no,no,no,no,no,no,,,나는 놀렸다,no,no,1
+1,noun-adj,288,158,눈물짓다,verb,,그들이 눈물지었다,no,no,yes,no,no,no,,,나는 눈물지었다,no,no,1
+1,noun-adj,290,159,뉘우치다,verb,,그들이 뉘우쳤다,yes,no,no,no,no,no,,,나는 뉘우쳤다,no,yes,1
+1,no-pair,292,160,느끼다,verb,,그들이 느꼈다,yes,no,no,no,no,no,,,나는 느꼈다,no,yes,1
+1,verb-adj,1399,162,다치다,verb,,그들이 다쳤다,no,no,yes,no,no,no,,,나는 다쳤다,no,no,1
+1,verb,298,165,달가워하다,verb,,그들이 달가워했다,yes,no,no,no,no,no,,,나는 달가워했다,no,yes,1
+1,verb,1400,168,달성하다,verb,,그들이 달성했다,no,no,no,no,no,no,,,나는 달성했다,no,no,1
+1,noun-adj,312,172,당혹하다,verb,,그들이 당혹했다,yes,no,no,no,no,no,,,나는 당혹했다,no,yes,1
+1,noun-adj,315,173,당황하다,verb,,그들이 당황했다,yes,no,no,no,no,no,,,나는 당황했다,no,yes,1
+1,verb,322,179,대성통곡하다,verb,,그들이 대성통곡하다,no,no,no,no,yes,no,,,나는 대성통곡했다,no,yes,1
+1,verb,329,185,도취하다,verb,,그들이 도취됐다,yes,no,no,no,no,yes,yes,yes,나는 도취됐다,no,yes,1
+1,verb,329,185,도취하다,verb,drunken,그들이 도취됐다,yes,no,yes,no,no,yes,yes,yes,나는 도취됐다,no,yes,2
+1,noun-adj,334,187,동경하다,verb,,그들이 동경했다,yes,no,no,no,no,no,,,나는 동경했다,no,yes,1
+1,noun-adj,337,188,동요하다,verb,,그들이 동요했다,yes,no,no,no,no,no,,,나는 동요했다,no,yes,1
+1,noun-adj,340,189,동정하다,verb,,그들이 동정했다,yes,no,no,no,no,no,,,나는 동정했다,no,yes,1
+1,noun-adj,344,191,두려워하다,verb,,그들이 두려우했다,yes,no,no,no,no,no,,,나는 두려워했다,no,yes,1
+1,verb-adj,350,195,들뜨다,verb,,그들이 들떴다,yes,no,no,no,no,no,,,나는 들떴다,no,yes,1
+2,verb-adj,360,200,떨리다,verb,,그들은 떨린다,yes,no,no,no,no,yes,,,나는 떨린다,no,yes,1
+2,verb-adj,360,200,떨리다,verb,physical meaning (not used with subjects such as 'they' and 'I'),그들은 떨린다,yes,no,yes,no,no,yes,,,나는 떨린다,no,yes,2
+2,verb,373,207,마음놓다,verb,,그들은 마음놓는다/마음놓았다,yes,no,no,no,no,no,,,나는 마음놓는다/마음놓았다,no,yes,1
+2,noun-adj,380,209,만족하다,verb,,그들은 만족한다,yes,no,no,no,no,no,,,나는 만족한다,no,yes,1
+2,verb,381,210,맘놓다,verb,,그들은 맘놓는다/맘놓았다,yes,no,no,no,no,no,,,나는 맘놓는다/맘놓았다,no,yes,1
+2,noun-adj,382,211,망설이다,verb,,그들은 망설인다,yes,no,no,no,no,no,,,나는 망설인다,no,yes,1
+2,noun-adj,385,212,망연자실하다,verb,,그들은 망연자실한다,yes,no,no,no,no,no,,,나는 망연자실한다,no,yes,1
+2,noun-adj,392,215,매료되다,verb,,그들은 매료된다/매료됐다,yes,no,no,no,no,no,,,나는 매료된다/매료됐다,no,yes,1
+2,noun-adj,395,216,매혹되다,verb,,그들은 매혹된다/매혹됐다,yes,no,no,no,no,no,,,나는 매혹된다/매혹됐다,no,yes,1
+2,no-pair,397,217,맥빠지다,verb,,그들은 맥빠진다,yes,no,no,no,no,no,,,나는 맥빠진다,yes,yes,1
+2,verb,399,218,머쓱하다,verb,,그들은 머쓱하다,yes,no,no,no,no,no,,,나는 머쓱하다,yes,yes,1
+2,verb,408,224,멸시하다,verb,,그들은 멸시한다,yes,no,no,no,no,no,,,나는 멸시한다,no,yes,1
+2,noun-adj,412,225,모멸하다,verb,,그들은 모멸한다,yes,no,no,no,no,no,,,나는 모멸한다,no,yes,1
+1,verb,591,236,사모하다,verb,need object,그들이 사모했다,yes,no,no,no,no,no,,,나는 사모했다,no,yes,1
+1,verb-adj,601,244,상심하다,verb,,그들이 상심했다,yes,no,no,no,no,no,,,나는 상심했다,no,yes,1
+1,verb-adj,604,245,상처받다,verb,,그들이 상처받았다,yes,no,no,no,no,no,,,나는 상처받았다,no,yes,1
+2,noun-adj,1405,245,무서워하다,verb,,그들은 무서워한다,yes,no,no,no,no,no,,,나는 무서워한다,no,yes,1
+2,noun-adj,452,246,무시하다,verb,,그들은 무시한다,yes,no,no,no,no,no,,,나는 무시한다,no,yes,1
+1,noun-adj,612,249,샘내다,verb,need object,그들이 샘냈다,yes,no,no,no,no,no,,,나는 샘냈다,no,yes,1
+1,noun-adj,621,255,서러워하다,verb,,그들이 서러워했다,yes,no,no,no,no,no,,,나는 서러워했다,no,yes,1
+1,noun-adj,634,255,설워하다,verb,,그들이 설워했다,yes,no,no,no,no,no,,,나는 설워했다,no,yes,1
+2,noun-adj,470,259,민망해하다,verb,,그들은 민망해한다,yes,no,no,no,no,no,,,나는 민항해한다,no,yes,1
+1,verb-adj,632,260,설레다,verb,,그들이 설레었다,yes,no,no,no,no,no,,,나는 설레었다,no,yes,1
+1,noun-adj,639,264,성가시게 하다,verb,,그들이 성가시게 했다,no,no,no,no,no,no,,,나는 성가시게 했다,yes,no,1
+1,noun-adj,479,266,반성하다,verb,,그들이/은 반성한다/반성했다,yes,no,no,no,no,no,,,나는 반성한다/반성했다,no,no,1
+1,verb,480,267,반하다,verb,,그들이/은 반한다/반했다,yes,no,no,no,no,no,,,나는 반한다/반했다,no,no,1
+1,noun-adj,646,267,성나다,verb,,그들이 성났다,yes,no,no,no,no,no,,,나는 성났다,no,yes,1
+1,noun-adj,648,268,성내다,verb,,그들이 성냈다,no,no,no,no,yes,no,,,나는 성냈다,no,yes,1
+1,verb,484,269,발끈하다,verb,,그들이/은 발끈한다/발끈했다,yes,no,no,no,no,no,,,나는 발끈한다/발끈했다,no,no,1
+1,verb,653,273,소름끼치다,verb,,그들이 소름끼쳤다,yes,no,no,no,no,yes,no,yes,나는 소름끼쳤다,no,yes,1
+1,verb,653,273,소름끼치다,verb,physically,그들이 소름끼쳤다,yes,no,yes,no,no,yes,no,yes,나는 소름끼쳤다,no,yes,2
+1,noun-adj,656,274,소망하다,verb,,그들이 소망했다,yes,no,no,no,no,no,,,나는 소망했다,no,yes,1
+1,verb,658,276,소스라치다,verb,,그들이 소스라쳤다,no,no,no,no,yes,no,,,나는 소스라쳤다,no,yes,1
+1,noun-adj,496,277,번뇌하다,verb,,그들이/은 번뇌한다/번뇌했다,yes,no,no,no,no,no,,,나는 번뇌한다/번뇌했다,no,yes,1
+1,noun-adj,498,278,번민하다,verb,,그들이/은 번민하다/번민한다/번민했다,yes,no,no,no,no,no,,,나는 번민한다/번민했다,no,yes,1
+1,verb,499,279,베풀다,verb,,그들이/은 베풀었다/베푼다,yes,no,no,no,no,no,,,나는 베푼다/베풀었다,no,no,1
+1,verb,500,280,보고싶다,verb,,그들이/은 보고싶다,yes,no,no,no,no,no,,,나는 보고싶다/보고싶었다,no,no,1
+1,verb,663,280,소원하다,verb,wish,그들이 소원했다,yes,no,no,no,no,yes,yes,no,나는 소원했다,no,yes,1
+1,verb,663,280,소원하다,verb,being apart,그들이 소원해졌다,no,no,no,no,no,yes,yes,no,나는 소원해졌다,no,yes,2
+1,verb,508,284,본받다,verb,,그들이/은 본받는다/본받았다/본받다,yes,no,no,no,no,no,,,나는 본받는다/본받았다,no,no,1
+1,noun-adj,525,292,분개하다,verb,,그들이/은 분개한다/분개했다,yes,no,no,no,no,no,,,나는 분개한다/분개했다,no,no,1
+1,noun-adj,527,293,분노하다,verb,,그들이/은 분노한다/분노했다,yes,no,no,no,no,no,,,나는 분노한다/분노했다,no,yes,1
+1,noun-adj,699,293,시기하다,verb,,그들이 시기했다,yes,no,no,no,no,no,,,나는 시기했다,no,yes,1
+1,noun-adj,537,298,불신하다,verb,,그들이/은 불신한다/불신했다,yes,no,no,yes,no,no,,,나는 불신한다/불신했다,no,yes,1
+1,noun-adj,688,298,숭상하다,verb,,그들이 숭상했다,yes,no,no,no,no,no,,,나는 숭상했다,no,yes,1
+2,noun-adj,715,302,신나다,verb,,그들은 신났다/신난다,yes,no,no,no,no,no,,,나는 신났다,no,yes,1
+2,noun-adj,719,303,신뢰하다,verb,makes more sense with an object,그들은 신뢰한다,yes,no,no,yes,no,no,,,나는 신뢰한다,no,yes,1
+2,verb,720,304,신명나다,verb,,그들은 신명난다,yes,no,no,no,no,no,,,나는 신명난다,yes,yes,1
+2,verb,721,305,신물나다,verb,,그들은 신물난다,yes,no,no,no,no,no,,,나는 신물난다,yes,yes,1
+2,noun-adj,723,306,신바람나다,verb,,그들은 신바람났다/신바람난다,yes,no,no,no,no,no,,,나는 신바람난다,no,yes,1
+1,noun-adj,559,307,비난하다,verb,,그들이/은 비난한다/비난했다,yes,no,no,no,no,no,,,나는 비난한다/비난했다,no,no,1
+1,verb,562,309,비분강개하다,verb,,그들이/은 비분강개한다/비분강개했다,yes,no,no,no,no,no,,,나는 비분강개한다/비분강개했다,no,yes,1
+2,noun-adj,727,309,실망하다,verb,,그들은 실망한다,yes,no,no,no,no,no,,,나는 실망한다,no,yes,1
+1,verb,568,313,비탄하다,verb,,그들이/은 비탄한다/비탄했다,yes,no,no,no,no,no,,,나는 비탄한다/비탄했다,no,no,1
+2,noun-adj,732,313,싫어하다,verb,makes more sense with an object,그들은 싫어한다,yes,no,no,no,no,no,,,나는 싫어한다,no,yes,1
+2,noun-adj,735,314,싫증나다,verb,,그들은 싫증난다/싫증났다,yes,no,no,no,no,no,,,나는 싫증난다,yes,yes,1
+1,no-pair,572,316,빼앗기다,verb,물리적으로,그들이/은 빼앗긴다/빼앗기다,yes,no,no,no,no,yes,yes,yes,나는 빼앗긴다/빼앗겼다,yes,no,1
+1,no-pair,572,316,빼앗기다,verb,심적으로,그들이/은 빼앗긴다/빼앗기다,yes,no,no,no,no,yes,yes,yes,나는 빼앗긴다/빼앗겼다,yes,no,2
+2,noun-adj,743,318,심려하다,verb,,그들은 심려한다,yes,no,no,no,no,no,,,나는 심려한다,no,yes,1
+1,noun-adj,584,322,사랑하다,verb,,그들이/은 사랑한다/사랑했다,yes,no,no,no,no,no,,,나는 사랑한다/사랑했다,no,no,1
+1,verb-adj,589,325,사로잡히다,verb,,그들이 사로잡혔다,yes,no,no,no,no,yes,yes,yes,나는 사로잡혔다,no,yes,1
+1,verb-adj,589,325,사로잡히다,verb,physically captured,그들이 사로잡혔다,no,no,yes,no,no,yes,yes,yes,나는 사로잡혔다,no,no,2
+2,verb-adj,765,331,아끼다,verb,makes mores sense with an object,그들은 아낀다,yes,no,no,no,no,no,,,나는 아낀다,no,yes,1
+2,verb,776,337,아연실색하다,verb,,그들은 아연실색한다,yes,no,no,no,no,no,,,나는 아연실색한다,yes,yes,1
+1,noun-adj,885,341,염려하다,verb,,그들이/은 염려한다/염려했다,yes,no,no,no,no,no,,,나는 염려한다/염려했다,no,yes,1
+2,noun-adj,785,343,안달복달하다,verb,,그들은 안달복달한다,yes,no,no,no,no,no,,,나는 안달복달한다,no,yes,1
+2,noun-adj,787,343,안달하다,verb,,그들은 안달한다,yes,no,no,no,no,no,,,나는 안달한다,no,yes,1
+2,verb,789,344,안도하다,verb,,그들은 안도한다/안도했다,yes,no,no,no,no,no,,,나는 안도하다/안도했다,no,yes,1
+1,noun-adj,888,344,예뻐하다,verb,,그들이/은 예뻐한다/예뻐했다,no,no,no,no,no,no,,,나는 예뻐한다/예뻐했다,no,no,1
+2,noun-adj,794,347,안심하다,verb,,그들은 안심한다/안심했다,yes,no,no,no,no,no,,,나는 안심한다/안심했다,no,yes,1
+2,noun-adj,797,350,안정되다,verb,,그들은 안정된다/안정됐다,yes,no,no,no,no,no,,,나는 안정된다/안정됐다,yes,yes,1
+2,verb,803,352,알리다,verb,,그들은 알린다/알렸다,yes,no,no,no,no,no,,,나는 알린다/알렸다,no,no,1
+1,noun-adj,905,354,욕망하다,verb,,그들이/은 욕망한다/욕망했다,yes,no,no,no,no,no,,,나는 욕망한다/욕망했다,no,no,1
+2,verb-adj,811,355,압도하다,verb,,그들은 압도한다,no,yes,no,no,no,no,,,나는 압도한다,yes,no,1
+1,noun-adj,912,358,용서하다,verb,,그들이/은 용서한다/용서했다,yes,no,no,no,no,no,,,나는 용서한다/용서했다,no,no,1
+1,noun-adj,915,359,우려하다,verb,,그들이/은 우려하다/우려한다/우려했다,yes,no,no,no,no,no,,,나는 우려한다/우려했다,no,no,1
+2,verb,820,361,애도하다,verb,,그들은 애도한다,yes,no,no,no,no,no,,,나는 애도한다,no,yes,1
+1,verb-adj,922,363,우쭐하다,verb,,그들이/은 우쭐하다/우쭐한다,yes,no,no,no,no,no,,,나는 우쭐한다/우쭐하다/우쭐했다,no,no,1
+1,verb,826,365,애쓰다,verb,,그들이/은 애쓴다/애썼다,yes,no,no,no,no,no,,,나는 애쓴다/애썼다,no,no,1
+1,verb,927,365,욱하다,verb,,그들이/은 욱한다/욱하다/욱했다,yes,no,no,no,no,no,,,나는 욱한다/욱했다,no,no,1
+1,verb,928,366,울다,verb,,그들이/은 운다/울었다,yes,no,yes,no,yes,no,,,나는 울었다/운다,no,no,1
+1,noun-adj,831,367,애정하다,verb,,그들이/은 애정한다/애정했다,yes,no,no,no,no,no,,,나는 애정한다/애정했다,no,no,1
+1,verb,832,368,애지중지하다,verb,,그들이/은 애지중지한다/애지중지했다,yes,no,no,no,no,no,,,나는 애지중지한다/애지중지했다,no,no,1
+1,verb,931,369,울컥하다,verb,,그들이/은 울컥한다/울컥했다,yes,no,no,no,no,no,,,나는 울컥한다/울컥했다,yes,yes,1
+1,noun-adj,837,371,애통해하다,verb,,그들이/은 애통해한다/애통해했다,yes,no,no,no,no,no,,,나는 애통해한다/애통해했다,no,yes,1
+1,noun-adj,934,371,원망하다,verb,,그들이/은 원망한다,yes,no,no,no,no,no,,,나는 원망한다/원망했다,no,no,1
+1,verb,838,372,야위다,verb,,그들이/은 야위었다/야윈다,yes,yes,no,no,no,no,,,나는 야위었다/야윈다,no,yes,1
+1,verb-adj,937,373,원하다,verb,,그들이/은 원하다/원한다,yes,no,no,no,no,no,,,나는 원한다/원했다,no,no,1
+1,verb,840,374,얕잡아보다,verb,,그들이/은 얕잡아본다/얕잡아봤다,yes,no,no,no,no,no,,,나는 얕잡아본다/얕잡아봤다,no,no,1
+1,verb,945,378,위압하다,verb,,그들이/은 위압한다/위압하다,yes,no,no,no,no,no,,,나는 위압한다/위압했다,yes,no,1
+1,verb,946,379,위축되다,verb,physically,그들이/은 위축된다/위축됐다,yes,no,no,no,no,yes,yes,yes,나는 위축된다/위축됐다,no,yes,1
+1,verb,946,379,위축되다,verb,mentally,그들이/은 위축된다/위축됐다,yes,no,no,no,no,yes,yes,yes,나는 위축된다/위축됐다,no,yes,2
+1,verb,855,384,업신여기다,verb,,그들이/은 업신여긴다/업신여겼다,no,no,no,no,no,no,,,나는 업신여긴다/업신여겼다,no,no,1
+1,verb,959,386,유혹하다,verb,,그들이/은 유혹한다,no,no,no,no,no,no,,,나는 유혹한다/유혹했다,yes,no,1
+1,noun-adj,863,388,역정내다,verb,,그들이/은 역정낸다/역졍냈다,yes,no,no,no,no,no,,,나는 역정낸다/역졍냈다,no,yes,1
+1,no-pair,864,389,연모하다,verb,,그들이/은 연모한다/연모했다,yes,no,no,no,no,no,,,나는 연모한다/연모했다,no,no,1
+1,noun-adj,867,390,연민하다,verb,,그들은/이 연민한다/연민했다,yes,no,no,no,no,no,,,나는 연민한다/연민했다,no,no,1
+1,verb-adj,871,393,열광하다,verb,,그들이/은 열광한다/열광했다,yes,no,no,no,no,no,,,나는 열광한다/열광했다,no,no,1
+1,noun-adj,877,397,열망하다,verb,,그들이/은 열망한다/열망했다,yes,no,no,no,no,no,,,나는 열망한다/열망했다,no,no,1
+1,verb-adj,978,400,이끌리다,verb,,그들이/은 이끌린다/이끌렸다,yes,no,no,no,no,no,,,나는 이끌린다/이끌렸다,no,yes,1
+1,verb,980,401,이루다,verb,,그들이/은 이루다/이룬다,yes,no,no,no,no,no,,,나는 이룬다/이뤘다,no,no,1
+1,verb,981,402,이뻐하다,verb,,그들이/은 이뻐한다,yes,no,no,no,no,no,,,나는 이뻐한다/이뻐했다,no,no,1
+1,noun-adj,984,403,이해하다,verb,학문적으로이해하다,그들이/은 이해한다/이해했다,yes,no,no,yes,no,yes,yes,yes,나는 이해한다/이해했다,no,yes,1
+1,noun-adj,984,403,이해하다,verb,공감하다,그들이/은 이해한다/이해했다,yes,no,no,no,no,yes,yes,yes,나는 이해한다/이해했다,no,yes,2
+1,verb,990,407,일깨우다,verb,,그들이/은 일깨웠다,yes,no,no,no,no,no,,,나는 일깨웠다/일깨운다,yes,no,1
+1,no-pair,1002,415,자부하다,verb,,그들이/은 자부한다/자부했다,yes,no,no,no,no,no,,,나는 자부한다/자부했다,no,no,1
+1,noun-adj,1007,417,자신하다,verb,,그들이/은 자신한다/자신했다,yes,no,no,no,no,no,,,나는 자신한다/자신했다,no,no,1
+1,no-pair,1010,419,자족하다,verb,,그들이/은 자족한다/자족하다,yes,no,no,no,no,no,,,나는 자족한다/자족했다,no,no,1
+1,verb,1013,422,자책하다,verb,,그들이/은 자책한다/자백했다,yes,no,no,no,no,no,,,나는 자책한다/자책했다,no,no,1
+1,noun-adj,1015,423,자포자기하다,verb,,그들이/은 자포자기한다/자포자기했다,yes,no,no,no,no,no,,,나는 자포자기한다/자포자기했다,no,no,1
+1,verb,1027,430,적대하다,verb,,그들이/은 적대한다/적대했다,yes,no,no,no,no,no,,,나는 적대한다/적대했다,no,no,1
+1,no-pair,1175,432,충격받다,verb,Surprised,그들이 충격받았다,yes,no,no,no,no,yes,yes,yes,나는 충격받았다,no,yes,1
+1,no-pair,1175,432,충격받다,verb,physically damaged,그들이 충격받았다,yes,no,yes,no,no,yes,yes,yes,나는 충격받았다,no,yes,2
+1,verb,1180,435,취하다,verb,Drunken,그들이 취했다,no,no,yes,no,no,yes,yes,yes,나는 취했다,no,yes,1
+1,verb,1180,435,취하다,verb,Take something,그들이 취했다,no,no,no,no,no,yes,yes,no,나는 취했다,no,no,2
+1,verb,1180,435,취하다,verb,Deeply into it,그들이 취했다,no,no,no,no,no,yes,yes,yes,나는 취했다,no,yes,3
+1,noun-adj,1193,443,친애하다,verb,,그들은 친애했다,yes,no,no,no,no,no,,,나는 친애했다,no,yes,1
+1,verb-adj,1202,448,켕기다,verb,,그들은 켕겼다,yes,no,no,no,no,yes,yes,yes,나는 켕겼다,no,yes,1
+1,verb-adj,1202,448,켕기다,verb,physically,그들은 켕겼다,yes,no,yes,no,no,yes,yes,yes,나는 켕겼다,no,yes,2
+1,no-pair,1213,456,탓하다,verb,,그들이 탓했다,no,no,no,no,no,no,,,나는 탓했다,no,no,1
+1,verb-adj,1217,459,토라지다,verb,,그들이 토라졌다,no,no,no,no,no,no,,,나는 토라졌다,no,yes,1
+1,verb,1221,461,통곡하다,verb,,그들이 통곡했다,yes,no,no,no,yes,no,,,나는 통곡했다,no,yes,1
+1,verb,1226,465,통탄하다,verb,,그들이 통탄했다,no,no,no,no,no,no,,,나는 통탄했다,no,yes,1
+2,noun-adj,1239,472,평가하다,verb,,그들은 평가한다,yes,no,no,no,no,no,,,나는 평가한다,no,no,1
+2,verb,1258,485,한탄하다,verb,,그들은 한탄한다,yes,no,no,no,no,no,,,나는 한탄한다,no,yes,1
+1,noun-adj,1286,503,혐오하다,verb,,그들이/은 혐오한다/혐오했다,yes,no,no,no,no,no,,,나는 혐오한다/혐오했다,no,no,1
+agreement,noun-adj,1035,10004,절망하다,verb,,그들은 절망한다,yes,no,no,no,no,no,,,나는 절망한다,no,yes,1
+agreement,noun-adj,1052,10015,조심하다,verb,,그들이 조심했다,yes,no,no,no,no,no,,,나는 조심했다,no,no,1
+agreement,noun-adj,1055,10016,존경하다,verb,,그들이 존경했다,yes,no,no,no,no,no,,,나는 존경했다,no,yes,1
+agreement,noun-adj,1063,10020,좌절하다,verb,,그들이/은 좌절한다/좌절했다,yes,no,no,no,no,no,,,나는 좌절한다/좌절했다,no,yes,1
+agreement,noun-adj,1070,10025,주눅들다,verb,,그들이/은 주눅든다/주눅들었다,yes,no,no,no,no,no,,,나는 주눅든다/주눅들었다,no,yes,1
+agreement,noun-adj,1077,10029,즐기다,verb,,그들이 즐겼다,yes,no,no,no,no,no,,,나는 즐겼다,no,yes,1
+agreement,noun-adj,1080,10030,증오하다,verb,,그들이 증오했다,yes,no,no,no,no,no,,,나는 증오했다,no,yes,1
+agreement,verb,1082,10032,지각하다,verb,1: perceived; 2: perceive'; 3: 지각 as 'recognize',그들은 지각한다/지각했다,yes,no,no,no,no,yes,yes,no,나는 지각한다/지각했다,no,no,1
+agreement,verb,1082,10032,지각하다,verb,1: action; 2: coming late'; 3: 지각 as 'late',그들은 지각했다,yes,no,no,no,no,yes,yes,no,나는 지각한다,no,no,2
+agreement,verb,1092,10038,지지하다,verb,1: need object,그들이 지지했다,yes,no,no,no,no,no,,,나는 지지했다,no,no,1
+agreement,verb-adj,1093,10039,지치다,verb,1: mentally; 2: mentally,그들은 지친다/지쳤다,yes,no,no,no,no,yes,yes,yes,나는 지친다/지쳤다,no,yes,1
+agreement,verb-adj,1093,10039,지치다,verb,1: physically; 2: physically; 3: physically,그들은 지친다,yes,no,yes,no,no,yes,yes,yes,나는 지친다,no,yes,2
+agreement,verb,1099,10043,진노하다,verb,,그들이/은 진노한다/진노했다,yes,no,no,no,no,no,,,나는 진노한다/진노했다,no,yes,1
+agreement,noun-adj,1106,10047,진저리나다,verb,,그들이 진저리났다,yes,no,no,no,no,no,,,나는 진저리났다,no,yes,1
+agreement,noun-adj,1108,10048,질겁하다,verb,,그들이 질겁했다,yes,no,no,no,no,no,,,나는 질겁했다,no,yes,1
+agreement,verb-adj,1109,10049,질리다,verb,3: 그들이/은 질린다 can be seen as my thought about them ,그들이/은 질린다/질렸다,yes,no,no,no,no,no,,,나는 질린다/질렸다,no,yes,1
+agreement,noun-adj,1113,10050,질색하다,verb,,그들은 질색한다,yes,no,no,no,no,no,,,나는 질색한다,no,yes,1
+agreement,verb,1115,10052,질책하다,verb,,그들이/은 질책한다/질책했다,yes,no,no,no,no,no,,,나는 질책한다/질책했다,no,no,1
+agreement,noun-adj,1118,10053,질투하다,verb,,그들이/은 질투한다/질투했다,yes,no,no,no,no,no,,,나는 질투한다/질투했다,no,yes,1
+agreement,noun-adj,1132,10059,짜증내다,verb,1: action,그들이 짜증냈다,yes,no,no,no,no,no,,,나는 짜증냈다,no,yes,1
+agreement,verb-adj,1135,10060,찔리다,verb,1: mentally; 2: emotional meaning (마음이+); 3: meaning as 'prick of conscience' ,그들이 찔렸다,yes,no,no,no,no,yes,yes,yes,나는 찔렸다,no,yes,1
+agreement,verb-adj,1135,10060,찔리다,verb,1: physically; 2: physical meaning; 3: meaning as 'get pierced',그들은 찔렸다,yes,no,yes,no,no,yes,yes,yes,나는 찔렸다,no,yes,2
+agreement,noun-adj,1144,10064,찬성하다,verb,,그들이 찬성했다,yes,no,no,no,no,no,,,나는 찬성했다,no,yes,1
+agreement,verb,1145,10065,찬양하다,verb,,그들이/은 찬양한다/찬양했다,yes,no,no,no,no,no,,,나는 찬양한다/찬양했다,no,no,1
+agreement,verb,1146,10066,참다,verb,,그들이/은 참는다/참았다,yes,no,no,no,no,no,,,나는 참는다/참았다,no,yes,1
+agreement,verb,1153,10070,책망하다,verb,,그들이/은 책망한다/책망했다,yes,no,no,no,no,no,,,나는 책망한다/책망했다,no,yes,1
+agreement,verb-adj,1159,10073,처지다,verb,,그들이/은 처진다/처졌다,yes,no,no,no,no,no,,,나는 처진다/처졌다,yes,yes,1
+agreement,verb,1164,10076,체념하다,verb,,그들은 체념한다/체념했다,yes,no,no,no,no,no,,,나는 체념한다/체념했다,no,yes,1
+agreement,noun-adj,1174,10081,축하하다,verb,,그들은 축하한다,yes,no,no,no,no,no,,,나는 축하한다,no,no,1
+agreement,verb,1301,10089,혼비백산하다,verb,,그들이 혼비백산했다,yes,no,no,no,no,no,,,나는 혼비백산했다,no,yes,1
+agreement,noun-adj,1306,10092,화내다,verb,1: action,그들은 화낸다,yes,no,no,no,no,no,,,나는 화낸다,no,yes,1
+agreement,noun-adj,1312,10094,확신하다,verb,,그들은 확신한다,yes,no,no,yes,no,no,,,나는 확신한다,no,no,1
+agreement,noun-adj,1337,10108,회개하다,verb,,그들이/은 회개한다/회개했다,yes,no,no,no,no,no,,,나는 회개한다/회개했다,no,yes,1
+agreement,noun-adj,1345,10113,후회하다,verb,,그들이/은 후회한다/후회했다,yes,no,no,no,no,no,,,나는 후회한다/후회했다,no,yes,1
+agreement,noun-adj,1351,10116,흠모하다,verb,,그들이 흠모했다,yes,no,no,no,no,no,,,나는 흠모했다,no,yes,1
+agreement,noun-adj,1357,10118,흥나다,verb,,그들이 흥냈다,yes,no,no,no,no,no,,,나는 흥난다/흥났다,no,no,1
+agreement,noun-adj,1363,10120,흥분하다,verb,1: positively excited; 2: mentally; 3: mentally,그들이/은 흥분한다/흥분했다,yes,no,no,no,no,yes,yes,yes,나는 흥분한다/흥분했다,no,yes,1
+agreement,noun-adj,1363,10120,흥분하다,verb,1: sexually aroused; 2: physically; 3: physically,그들이/은 흥분한다/흥분했다,yes,no,yes,no,no,yes,yes,yes,나는 흥분한다/흥분했다,no,yes,2
+agreement,noun-adj,1369,10123,희망하다,verb,,그들이 희망했다,yes,no,no,no,no,no,,,나는 희망했다,no,no,1
+agreement,noun-adj,1373,10125,희희낙락하다,verb,,그들이 희희낙락했다,yes,no,no,no,no,no,,,나는 희희낙락했다,no,yes,1
+agreement,noun-adj,1376,10127,힘내다,verb,,그들은 힘낸다,yes,no,no,no,no,no,,,나는 힘낸다,no,no,1
