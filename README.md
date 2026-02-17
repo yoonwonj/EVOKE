@@ -30,4 +30,5 @@ Please refer to the paper for annotation criteria, construction of translation m
 
 ---
 ## Citation
+Jung, Y., Shin, H., & Bergen, B. K. (2026). EVOKE: Emotion Vocabulary Of Korean and English. *arXiv [Cs.CL]*. Retrieved from http://arxiv.org/abs/2602.10414
 
