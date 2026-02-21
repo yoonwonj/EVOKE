@@ -1,14 +1,12 @@
-Coder_ID,Pair_type,Word_ID,Pair_ID,Word,POS,Note,I_Feel,They_Feel,They_Feel_Q1,They_Feel_Q2,It_Feels,It_Feels_Q1,It_Feels_Q2,Bodily_Physical,Epistemic,Behavioral_Result,Additional_Meaning,Add_Row,Distinctiveness,Relatedness,I_Am,I_Am_Q1,I_Am_Q2,Meaning_label
-1,verb-adj,,619,fire up,verb,,,,,,,,,,,,,,,,,,,
-1,verb-adj,1115,619,fired up,adjective,,acceptable,acceptable,yes,yes,unacceptable,no,no,no,no,no,no,,,,acceptable,no,yes,1
+﻿Coder_ID,Pair_type,Word_ID,Pair_ID,Word,POS,Note,I_Feel,They_Feel,They_Feel_Q1,They_Feel_Q2,It_Feels,It_Feels_Q1,It_Feels_Q2,Bodily_Physical,Epistemic,Behavioral_Result,Additional_Meaning,Add_Row,Distinctiveness,Relatedness,I_Am,I_Am_Q1,I_Am_Q2,Meaning_label
+1,verb-adj,,737,fire up,verb,,,,,,,,,,,,,,,,,,,
+1,verb-adj,1115,737,fired up,adjective,,acceptable,acceptable,yes,yes,unacceptable,no,no,no,no,no,no,,,,acceptable,no,yes,1
 1,verb-adj,,619,ignore,verb,,,,,,,,,,,,,,,,,,,
 1,verb-adj,1133,619,ignored,adjective,,acceptable,acceptable,yes,yes,acceptable,no,yes,no,no,no,no,,,,acceptable,no,yes,1
 1,verb-adj,,653,involve,verb,,,,,,,,,,,,,,,,,,,
 1,verb-adj,1150,653,involved,adjective,,unacceptable,unacceptable,no,no,unacceptable,no,no,no,no,no,no,,,,acceptable,no,yes,1
 1,verb-adj,,667,know,verb,,,,,,,,,,,,,,,,,,,
 1,verb-adj,1164,667,knowing,adjective,,unacceptable,unacceptable,no,no,unacceptable,no,no,no,yes,no,no,,,,acceptable,yes,no,1
-1,verb-adj,,672,liberate,verb,,,,,,,,,,,,,,,,,,,
-1,verb-adj,1169,672,liberated,adjective,,acceptable,acceptable,yes,yes,unacceptable,no,no,no,no,no,no,,,,acceptable,no,yes,1
 1,verb-adj,,705,overwhelm,verb,,,,,,,,,,,,,,,,,,,
 1,verb-adj,1202,705,overwhelmed,adjective,,acceptable,acceptable,yes,yes,unacceptable,no,no,no,no,no,no,,,,acceptable,no,yes,1
 1,verb-adj,1203,705,overwhelming,adjective,overwhelmed could work instead,unacceptable,unacceptable,no,no,acceptable,yes,yes,no,no,no,no,,,,acceptable,yes,no,1
@@ -131,8 +129,6 @@ cannot evaluate as noun-adj pair because commiserate is not a noun",unacceptable
 1,noun-adj,528,123,contrite,adjective,"not familiar enough to determine (Crushed or broken in spirit by a sense of sin, and so brought to complete penitence.)",unacceptable,unacceptable,no,no,not sure,unsure,unsure,no,no,no,no,,,,acceptable,no,yes,1
 1,noun-adj,529,127,cooperation,noun,,,,,,,,,,,,,,,,,,,
 1,noun-adj,530,127,cooperative,adjective,,unacceptable,unacceptable,no,no,unacceptable,no,no,no,no,yes,no,,,,acceptable,yes,no,1
-1,noun-adj,531,132,crank,noun,,,,,,,,,,,,,,,,,,,
-1,noun-adj,532,132,cranky,adjective,"I feel that cranky is not related to the noun ""crank""",acceptable,acceptable,yes,yes,unacceptable,no,no,no,no,yes,no,,,,acceptable,unsure,unsure,1
 1,noun-adj,533,133,creep,noun,,,,,,,,,,,,,,,,,,,
 1,noun-adj,534,133,creepy,adjective,"has to be a specific scenario, i.e. ""I feel creepy when I stalk people on Instagram but it's fun""",acceptable,acceptable,yes,yes,acceptable,no,yes,no,no,no,no,,,,acceptable,yes,no,1
 1,noun-adj,535,135,criticalness,noun,,,,,,,,,,,,,,,,,,,
@@ -166,14 +162,9 @@ similar to easy in that ""it"" should be an action for ""it feels difficult"" to
 1,noun-adj,559,168,discontented,adjective,,acceptable,acceptable,yes,yes,unacceptable,no,no,no,no,no,no,,,,acceptable,no,yes,1
 1,noun-adj,560,173,disheartenment,noun,,,,,,,,,,,,,,,,,,,
 1,noun-adj,561,173,disheartened,adjective,,acceptable,acceptable,yes,yes,unacceptable,no,no,no,no,no,no,,,,acceptable,no,yes,1
-1,no_pair,563,175,dismal,adjective,,acceptable,acceptable,yes,yes,acceptable,no,yes,no,no,no,no,,,,acceptable,yes,yes,1
 1,noun-adj,564,180,dissatisfaction,noun,,,,,,,,,,,,,,,,,,,
 1,noun-adj,565,180,dissatisfied,adjective,,acceptable,acceptable,yes,yes,unacceptable,no,no,no,no,no,no,,,,acceptable,no,yes,1
 1,noun-adj,566,180,dissatisfatory,adjective,,unacceptable,unacceptable,no,no,acceptable,no,yes,no,no,no,no,,,,acceptable,yes,no,1
-1,noun-adj,567,183,distress,noun,,,,,,,,,,,,,,,,,,,
-1,noun-adj,568,183,distressed,adjective,,acceptable,acceptable,yes,yes,unacceptable,no,no,no,no,no,yes,,yes,yes,acceptable,no,yes,1
-1,noun-adj,568,183,distressed,adjective,as in jeans/clothing,unacceptable,unacceptable,no,no,unacceptable,no,no,no,no,no,yes,,yes,yes,unacceptable,no,no,2
-1,noun-adj,569,183,distressful,adjective,,unacceptable,unacceptable,no,no,unacceptable,no,no,no,no,no,no,,,,unacceptable,no,no,1
 1,noun-adj,570,184,distrust,noun,,,,,,,,,,,,,,,,,,,
 1,noun-adj,571,184,distrustful,adjective,,unacceptable,unacceptable,no,no,unacceptable,no,no,no,no,no,no,,,,acceptable,yes,no,1
 1,noun-adj,572,188,domination,noun,,,,,,,,,,,,,,,,,,,
@@ -192,10 +183,6 @@ relatedness: something that is dull is less capable/useful as usual",unacceptabl
 1,noun-adj,583,208,emptiness,noun,,,,,,,,,,,,,,,,,,,
 1,noun-adj,584,208,empty,adjective,figurative,acceptable,acceptable,yes,yes,unacceptable,no,no,no,no,no,yes,,yes,yes,acceptable,no,yes,1
 1,noun-adj,584,208,empty,adjective,not containing anything (describing a vessel),unacceptable,unacceptable,no,no,acceptable,no,yes,no,no,no,yes,,yes,yes,unacceptable,no,no,2
-1,noun-adj,585,209,encouragement,noun,,,,,,,,,,,,,,,,,,,
-1,noun-adj,586,209,encouraged,adjective,,acceptable,acceptable,yes,yes,unacceptable,no,no,no,no,no,no,,,,acceptable,no,yes,1
-1,noun-adj,587,213,enragement,noun,,,,,,,,,,,,,,,,,,,
-1,noun-adj,589,213,enraged,adjective,,acceptable,acceptable,yes,yes,unacceptable,no,no,no,no,no,no,,,,acceptable,no,yes,1
 1,noun-adj,590,215,enthusiasm,noun,,,,,,,,,,,,,,,,,,,
 1,noun-adj,591,215,enthusiastic,adjective,,acceptable,acceptable,yes,yes,unacceptable,no,no,no,no,no,no,,,,acceptable,yes,yes,1
 1,noun-adj,592,218,evil,noun,,,,,,,,,,,,,,,,,,,
@@ -235,17 +222,9 @@ relatedness: something that is dull is less capable/useful as usual",unacceptabl
 1,noun-adj,620,286,help,noun,,,,,,,,,,,,,,,,,,,
 1,noun-adj,621,286,helpful,adjective,,not sure,not sure,unsure,unsure,unacceptable,no,no,no,no,no,no,,,,acceptable,yes,no,1
 1,noun-adj,622,286,helpless,adjective,,acceptable,acceptable,yes,yes,unacceptable,no,no,no,no,no,no,,,,acceptable,no,yes,1
-1,noun-adj,623,294,horror,noun,,,,,,,,,,,,,,,,,,,
-1,noun-adj,624,294,horrifying,adjective,,unacceptable,unacceptable,no,no,acceptable,no,yes,no,no,no,no,,,,acceptable,yes,no,1
-1,noun-adj,625,294,horrible,adjective,,acceptable,acceptable,yes,yes,acceptable,no,yes,no,no,no,no,,,,acceptable,yes,yes,1
-1,noun-adj,626,294,horrified,adjective,,acceptable,acceptable,yes,yes,unacceptable,no,no,no,no,no,no,,,,acceptable,no,yes,1
-1,noun-adj,627,294,horrid,adjective,,acceptable,acceptable,yes,yes,acceptable,no,yes,no,no,no,no,,,,acceptable,yes,no,1
 1,noun-adj,628,297,hurt,noun,,,,,,,,,,,,,,,,,,,
 1,noun-adj,629,297,hurt,adjective,emotionally/metaphorically,acceptable,acceptable,yes,yes,unacceptable,no,no,no,no,no,yes,,yes,yes,acceptable,no,yes,1
 1,noun-adj,629,297,hurt,adjective,physical injury,acceptable,acceptable,yes,yes,unacceptable,no,no,yes,no,no,yes,,yes,yes,acceptable,no,yes,2
-1,noun-adj,630,300,patience,noun,,,,,,,,,,,,,,,,,,,
-1,noun-adj,631,300,patient,adjective,,unacceptable,unacceptable,yes,yes,unacceptable,no,no,no,no,no,no,,,,acceptable,yes,yes,1
-1,noun-adj,632,300,impatient,adjective,,acceptable,acceptable,yes,yes,unacceptable,no,no,no,no,no,no,,,,acceptable,yes,yes,1
 1,noun-adj,633,302,competence,noun,,,,,,,,,,,,,,,,,,,
 1,noun-adj,634,302,competent,adjective,,acceptable,acceptable,yes,yes,unacceptable,no,no,no,no,no,no,,,,acceptable,no,yes,1
 1,noun-adj,635,302,incompetent,adjective,,acceptable,acceptable,yes,yes,unacceptable,no,no,no,no,no,no,,,,acceptable,no,yes,1
@@ -361,9 +340,6 @@ relatedness: something that is dull is less capable/useful as usual",unacceptabl
 1,noun-adj,746,488,tightened,adjective,"""I feel tight"" would be more acceptable",unacceptable,unacceptable,no,no,acceptable,no,yes,yes,no,no,no,,,,unacceptable,no,no,1
 1,noun-adj,747,493,torment,noun,,,,,,,,,,,,,,,,,,,
 1,noun-adj,748,493,tormented,adjective,,acceptable,acceptable,yes,yes,unacceptable,no,no,no,no,no,no,,,,acceptable,no,yes,1
-1,noun-adj,749,495,toughness,noun,,,,,,,,,,,,,,,,,,,
-1,noun-adj,750,495,tough,adjective,as in strong/able to withstand hardships,unacceptable,unacceptable,no,no,unacceptable,no,no,no,no,no,yes,,yes,yes,acceptable,no,yes,1
-1,noun-adj,750,495,tough,adjective,as in difficult,unacceptable,unacceptable,no,no,unacceptable,no,no,no,no,no,yes,,yes,yes,unacceptable,no,no,2
 1,noun-adj,751,497,tranquility,noun,,,,,,,,,,,,,,,,,,,
 1,noun-adj,752,497,tranquil,adjective,,acceptable,acceptable,yes,yes,acceptable,no,yes,no,no,no,no,,,,acceptable,yes,yes,1
 1,noun-adj,753,516,hill,noun,,,,,,,,,,,,,,,,,,,
@@ -394,8 +370,6 @@ relatedness: something that is dull is less capable/useful as usual",unacceptabl
 1,no-pair,1238,741,worn out,adjective,,acceptable,acceptable,yes,yes,unacceptable,no,no,no,no,no,yes,,yes,yes,acceptable,no,yes,1
 1,no-pair,1238,741,worn out,adjective,heavily used and falling apart (e.g. a shoe),unacceptable,unacceptable,no,no,acceptable,no,yes,no,no,no,yes,,yes,yes,unacceptable,no,no,2
 1,no-pair,1158,661,joyless,adjective,,acceptable,acceptable,yes,yes,acceptable,no,yes,no,no,no,no,,,,acceptable,yes,yes,1
-1,no-pair,1196,699,new,adjective,physically new,unacceptable,unacceptable,no,no,acceptable,no,yes,no,no,no,yes,,yes,yes,unacceptable,no,no,1
-1,no-pair,1196,699,new,adjective,"figurative; ""I feel renewed"" would be more acceptable",unacceptable,unacceptable,no,no,unacceptable,no,no,no,no,no,yes,,yes,yes,acceptable,no,yes,2
 1,no-pair,1214,717,self-pitying,adjective,,unacceptable,unacceptable,no,no,unacceptable,no,no,no,no,no,no,,,,acceptable,yes,yes,1
 1,no-pair,1179,682,lukewarm,adjective,temperature,unacceptable,unacceptable,no,no,acceptable,no,yes,no,no,no,yes,,yes,unsure,unacceptable,no,no,1
 1,no-pair,1179,682,lukewarm,adjective,"unfamiliar with this sense of the word (Having little warmth or depth of feeling, lacking zeal, enthusiasm or ardour, indifferent)",unacceptable,unacceptable,no,no,unacceptable,no,no,no,no,no,yes,,yes,unsure,acceptable,no,yes,2
@@ -414,7 +388,6 @@ relatedness: something that is dull is less capable/useful as usual",unacceptabl
 1,no-pair,1097,601,definite,adjective,,unacceptable,unacceptable,no,no,unacceptable,no,no,no,no,no,no,,,,unacceptable,no,no,1
 1,no-pair,1103,607,disconcerted,adjective,,acceptable,acceptable,yes,yes,unacceptable,no,no,no,no,no,no,,,,acceptable,no,yes,1
 1,no-pair,1120,624,fond of,adjective,,unacceptable,unacceptable,no,no,unacceptable,no,no,no,no,no,no,,,,acceptable,yes,no,1
-1,no-pair,1084,588,charitable,adjective,,unacceptable,unacceptable,no,no,unacceptable,no,no,no,no,no,no,,,,acceptable,yes,no,1
 1,no-pair,1050,554,active,adjective,physically,unacceptable,unacceptable,no,no,unacceptable,no,no,no,no,no,yes,,yes,yes,acceptable,yes,no,1
 1,no-pair,1050,554,active,adjective,working/operating,unacceptable,unacceptable,no,no,unacceptable,no,no,no,no,no,yes,,yes,yes,acceptable,yes,no,2
 1,no-pair,1127,631,heavy-hearted,adjective,,acceptable,acceptable,yes,yes,unacceptable,no,no,no,no,no,no,,,,acceptable,no,yes,1
@@ -452,13 +425,6 @@ relatedness: something that is dull is less capable/useful as usual",unacceptabl
 2,verb-adj,,712,rejoice,verb,,,,,,,,,,,,,,,,,,,
 2,verb-adj,1209,712,rejoiced,adjective,,unacceptable,unacceptable,no,no,unacceptable,no,no,no,no,no,no,,,,acceptable,yes,no,1
 2,verb-adj,,721,sicken,verb,,,,,,,,,,,,,,,,,,,
-2,verb-adj,1218,721,sickened,adjective,emotional,acceptable,acceptable,yes,yes,unacceptable,no,no,no,no,unsure,yes,,yes,yes,acceptable,no,yes,1
-2,verb-adj,1218,721,sickened,adjective,physical,acceptable,acceptable,yes,no,unacceptable,no,no,yes,no,yes,yes,,yes,yes,acceptable,no,yes,2
-2,verb-adj,1219,722,sickening,adjective,emotional,unacceptable,acceptable,no,yes,acceptable,no,yes,no,no,yes,yes,,yes,yes,acceptable,yes,no,1
-2,verb-adj,1219,722,sickening,adjective,physical,unacceptable,acceptable,no,yes,acceptable,no,yes,yes,no,no,yes,,yes,yes,acceptable,yes,no,2
-2,noun-adj,,1,preciousness,noun,,,,,,,,,,,,,,,,,,,
-2,noun-adj,2,1,precious,adjective,valuable,acceptable,acceptable,no,yes,acceptable,no,yes,no,no,no,yes,,yes,no,acceptable,yes,yes,1
-2,noun-adj,2,1,precious,adjective,cute,acceptable,acceptable,no,yes,acceptable,no,yes,no,no,no,yes,,yes,no,acceptable,yes,yes,2
 2,noun-adj,5,3,pity,noun,,,,,,,,,,,,,,,,,,,
 2,noun-adj,6,3,pitiful,adjective,,acceptable,acceptable,yes,yes,acceptable,no,yes,no,no,no,no,,,,acceptable,yes,yes,1
 2,noun-adj,10002,3,piteous,adjective,,acceptable,acceptable,yes,yes,acceptable,no,yes,no,no,no,no,,,,acceptable,yes,no,1
@@ -545,8 +511,6 @@ relatedness: something that is dull is less capable/useful as usual",unacceptabl
 2,noun-adj,257,119,congratulating,adjective,,unacceptable,acceptable,no,yes,acceptable,no,yes,no,no,no,no,,,,acceptable,yes,no,1
 2,noun-adj,258,124,control,noun,,,,,,,,,,,,,,,,,,,
 2,noun-adj,259,124,controlled,adjective,,acceptable,acceptable,yes,yes,acceptable,no,yes,no,no,no,no,,,,acceptable,no,yes,1
-2,noun-adj,260,130,coziness,noun,,,,,,,,,,,,,,,,,,,
-2,noun-adj,261,130,cozy,adjective,,acceptable,acceptable,yes,yes,acceptable,no,yes,no,no,no,no,,,,acceptable,yes,yes,1
 2,noun-adj,262,134,cringe,noun,,,,,,,,,,,,,,,,,,,
 2,noun-adj,263,134,cringey,adjective,,acceptable,acceptable,yes,yes,acceptable,no,yes,no,no,no,no,,,,acceptable,yes,no,1
 2,noun-adj,264,138,cunning,noun,,,,,,,,,,,,,,,,,,,
@@ -557,9 +521,6 @@ relatedness: something that is dull is less capable/useful as usual",unacceptabl
 2,noun-adj,269,140,daring,adjective,,acceptable,acceptable,yes,yes,acceptable,no,yes,no,no,no,no,,,,acceptable,yes,no,1
 2,noun-adj,270,142,defense,noun,,,,,,,,,,,,,,,,,,,
 2,noun-adj,271,142,defensive,adjective,,acceptable,acceptable,yes,yes,acceptable,no,yes,no,no,yes,no,,,,acceptable,yes,no,1
-2,noun-adj,272,146,delicacy,noun,,,,,,,,,,,,,,,,,,,
-2,noun-adj,273,146,delicate,adjective,emotionally delicate,acceptable,acceptable,yes,yes,unacceptable,no,no,no,no,no,yes,,yes,no,acceptable,unsure,yes,1
-2,noun-adj,273,146,delicate,adjective,physically delicate,acceptable,acceptable,yes,no,acceptable,yes,yes,yes,no,no,yes,,yes,no,acceptable,unsure,yes,2
 2,noun-adj,277,150,desire,noun,,,,,,,,,,,,,,,,,,,
 2,noun-adj,278,150,desiring,adjective,,unacceptable,acceptable,no,yes,unacceptable,no,no,no,no,no,no,,,,acceptable,yes,no,1
 2,noun-adj,279,151,despair,noun,,,,,,,,,,,,,,,,,,,
@@ -573,8 +534,6 @@ relatedness: something that is dull is less capable/useful as usual",unacceptabl
 2,noun-adj,287,169,discouraging,adjective,,not sure,acceptable,no,yes,acceptable,no,yes,no,no,no,no,,,,acceptable,yes,no,1
 2,noun-adj,288,172,disgust,noun,,,,,,,,,,,,,,,,,,,
 2,noun-adj,289,172,disgusting,adjective,not sure if I'm conflating two definitions here,acceptable,acceptable,yes,yes,acceptable,no,yes,no,no,no,unsure,,,,acceptable,yes,yes,1
-2,noun-adj,290,178,disrespect,noun,,,,,,,,,,,,,,,,,,,
-2,noun-adj,291,178,disrespectful,adjective,,acceptable,acceptable,yes,yes,unacceptable,no,yes,no,no,no,no,,,,acceptable,yes,no,1
 2,noun-adj,292,181,distaste,noun,,,,,,,,,,,,,,,,,,,
 2,noun-adj,293,181,distasteful,adjective,,unacceptable,acceptable,no,yes,acceptable,no,yes,no,no,no,no,,,,acceptable,yes,yes,1
 2,noun-adj,294,185,disturbance,noun,,,,,,,,,,,,,,,,,,,
@@ -627,8 +586,6 @@ relatedness: something that is dull is less capable/useful as usual",unacceptabl
 2,noun-adj,340,254,frustrated,adjective,,acceptable,acceptable,yes,yes,unacceptable,no,no,no,no,no,no,,,,acceptable,yes,yes,1
 2,noun-adj,341,258,gauntness,noun,,,,,,,,,,,,,,,,,,,
 2,noun-adj,342,258,gaunt,adjective,,acceptable,acceptable,yes,yes,unacceptable,no,no,yes,no,no,no,,,,acceptable,yes,yes,1
-2,noun-adj,343,259,generosity,noun,,,,,,,,,,,,,,,,,,,
-2,noun-adj,344,259,generous,adjective,,acceptable,acceptable,yes,yes,unacceptable,no,no,no,no,no,no,,,,acceptable,yes,yes,1
 2,noun-adj,345,267,goodness,noun,,,,,,,,,,,,,,,,,,,
 2,noun-adj,346,267,good,adjective,,acceptable,acceptable,yes,yes,acceptable,no,yes,no,no,no,no,,,,acceptable,yes,unsure,1
 2,noun-adj,347,271,grief,noun,,,,,,,,,,,,,,,,,,,
@@ -671,9 +628,6 @@ relatedness: something that is dull is less capable/useful as usual",unacceptabl
 2,noun-adj,395,348,mercy,noun,,,,,,,,,,,,,,,,,,,
 2,noun-adj,396,348,merciful,adjective,,acceptable,acceptable,yes,yes,unacceptable,no,no,no,no,no,no,,,,acceptable,yes,no,1
 2,noun-adj,397,348,merciless,adjective,,acceptable,acceptable,yes,yes,unacceptable,no,no,no,no,no,no,,,,acceptable,yes,no,1
-2,noun-adj,398,350,mess,noun,,,,,,,,,,,,,,,,,,,
-2,noun-adj,399,350,messy,adjective,physically messy,acceptable,acceptable,yes,yes,acceptable,no,yes,yes,no,no,yes,,yes,unsure,acceptable,yes,no,1
-2,noun-adj,399,350,messy,adjective,messy as in drama-causing,unacceptable,acceptable,no,yes,unacceptable,no,no,no,no,no,yes,,yes,unsure,acceptable,yes,no,2
 2,noun-adj,400,353,mix,noun,,,,,,,,,,,,,,,,,,,
 2,noun-adj,401,353,mixed,adjective,,unacceptable,unacceptable,no,no,acceptable,no,yes,yes,no,no,unsure,,,,unacceptable,no,no,1
 2,noun-adj,402,356,moisture,noun,,,,,,,,,,,,,,,,,,,
@@ -713,8 +667,6 @@ relatedness: something that is dull is less capable/useful as usual",unacceptabl
 2,noun-adj,433,413,reluctant,adjective,,acceptable,acceptable,yes,yes,unacceptable,no,no,no,no,no,no,,,,acceptable,yes,no,2
 2,noun-adj,438,423,rest,noun,,,,,,,,,,,,,,,,,,,
 2,noun-adj,439,423,restless,adjective,,acceptable,acceptable,yes,yes,unacceptable,no,no,no,no,yes,no,,,,acceptable,no,no,1
-2,noun-adj,440,425,reward,noun,,,,,,,,,,,,,,,,,,,
-2,noun-adj,441,425,rewarding,adjective,,unacceptable,unacceptable,no,no,unacceptable,no,no,no,no,no,no,,,,unacceptable,yes,no,1
 2,noun-adj,442,427,romance,noun,,,,,,,,,,,,,,,,,,,
 2,noun-adj,443,427,romantic,adjective,,acceptable,acceptable,yes,yes,acceptable,no,yes,no,no,no,no,,,,acceptable,yes,unsure,1
 2,noun-adj,444,429,safety,noun,,,,,,,,,,,,,,,,,,,
@@ -749,14 +701,8 @@ relatedness: something that is dull is less capable/useful as usual",unacceptabl
 2,noun-adj,472,499,triumphant,adjective,,acceptable,acceptable,yes,yes,unacceptable,no,no,no,no,no,no,,,,acceptable,yes,unsure,1
 2,noun-adj,473,500,triviality,noun,,,,,,,,,,,,,,,,,,,
 2,noun-adj,474,500,trivial,adjective,,acceptable,acceptable,yes,yes,acceptable,no,yes,no,no,no,no,,,,acceptable,yes,no,1
-2,noun-adj,475,501,trouble,noun,,,,,,,,,,,,,,,,,,,
-2,noun-adj,476,501,troubled,adjective,,acceptable,acceptable,yes,yes,unacceptable,no,no,no,no,no,no,,,,acceptable,no,yes,1
-2,noun-adj,477,501,troublesome,adjective,,acceptable,acceptable,yes,yes,acceptable,no,yes,no,no,no,no,,,,acceptable,yes,no,1
 2,noun-adj,482,525,vividness,noun,,,,,,,,,,,,,,,,,,,
 2,noun-adj,483,525,vivid,adjective,,unacceptable,unacceptable,no,no,unacceptable,no,no,no,no,no,no,,,,acceptable,yes,yes,1
-2,noun-adj,484,529,weariness,noun,,,,,,,,,,,,,,,,,,,
-2,noun-adj,485,529,weary,adjective,,acceptable,acceptable,yes,no,unacceptable,no,no,yes,no,yes,no,,,,acceptable,yes,yes,1
-2,noun-adj,486,529,wearisome,adjective,,acceptable,acceptable,yes,yes,acceptable,no,yes,no,no,no,no,,,,acceptable,yes,no,1
 2,noun-adj,487,532,whine,noun,,,,,,,,,,,,,,,,,,,
 2,noun-adj,488,532,whining,adjective,whiney would work but not whining for me,unacceptable,unacceptable,no,no,unacceptable,no,no,no,no,yes,no,,,,acceptable,yes,no,1
 2,noun-adj,489,536,woe,noun,,,,,,,,,,,,,,,,,,,
@@ -782,22 +728,15 @@ relatedness: something that is dull is less capable/useful as usual",unacceptabl
 2,noun-adj,1210,713,relaxed,adjective,,acceptable,acceptable,yes,yes,unacceptable,no,no,unsure,no,no,no,,,,acceptable,no,yes,1
 2,noun-adj,1266,657,jealousy,noun,,,,,,,,,,,,,,,,,,,
 2,noun-adj,1154,657,jealous,adjective,,acceptable,acceptable,yes,yes,unacceptable,no,no,no,no,no,no,,,,acceptable,yes,yes,1
-2,no-pair,1106,610,distant,adjective,physically distant,acceptable,acceptable,no,yes,acceptable,no,yes,yes,no,no,yes,,no,no,acceptable,yes,no,1
-2,no-pair,1106,610,distant,adjective,emotionally distant,acceptable,acceptable,yes,yes,unacceptable,no,no,no,no,no,yes,,no,no,acceptable,yes,no,2
 2,no-pair,1093,597,cross,adjective,as in upset,acceptable,acceptable,yes,yes,unacceptable,no,no,no,no,no,no,,,,acceptable,yes,yes,1
 2,no-pair,1091,595,cool,adjective,cold,acceptable,acceptable,yes,yes,acceptable,yes,yes,yes,no,no,yes,,yes,no,acceptable,no,yes,1
 2,no-pair,1091,595,cool,adjective,as in the slang,acceptable,acceptable,yes,yes,acceptable,no,yes,no,no,no,yes,,yes,no,acceptable,yes,yes,2
 2,no-pair,1089,593,confrontational,adjective,,acceptable,acceptable,yes,yes,acceptable,no,yes,no,no,yes,no,,,,acceptable,yes,no,1
 2,no-pair,1110,614,evident,adjective,,unacceptable,not sure,no,unsure,acceptable,no,yes,no,unsure,no,no,,,,unacceptable,no,yes,1
 2,no-pair,1111,615,faint,adjective,,acceptable,acceptable,yes,no,unacceptable,no,no,yes,no,yes,no,,,,unacceptable,yes,yes,1
-2,no-pair,1129,633,hot,adjective,hot like the temperature,acceptable,acceptable,yes,yes,acceptable,yes,yes,yes,no,no,yes,,yes,yes,acceptable,no,yes,1
-2,no-pair,1129,633,hot,adjective,hot like attractive,acceptable,acceptable,yes,yes,unacceptable,no,no,no,no,no,yes,,yes,yes,acceptable,yes,yes,2
 2,no-pair,1125,629,glum,adjective,repeat,acceptable,acceptable,yes,yes,unacceptable,no,yes,no,no,no,no,,,,acceptable,yes,yes,1
 2,no-pair,1123,627,genuine,adjective,,acceptable,acceptable,no,yes,acceptable,no,yes,no,no,no,no,,,,acceptable,unsure,yes,1
 2,no-pair,1118,622,flagrant,adjective,"* for me, flagrant needs another word with it 'flagrantly disobeying the rules', 'flagrant display of wealth'",unacceptable,unacceptable,no,no,unacceptable,no,no,no,no,no,no,,,,unacceptable,yes,no,1
-2,no-pair,1113,617,far-fetched,adjective,,unacceptable,unacceptable,no,no,acceptable,no,yes,no,unsure,no,no,,,,unacceptable,yes,no,1
-2,no-pair,1086,590,cheesy,adjective,cheesy as in lots of cheese,unacceptable,unacceptable,no,no,acceptable,yes,yes,yes,no,no,yes,,yes,no,unacceptable,no,no,1
-2,no-pair,1086,590,cheesy,adjective,cheesy as in silly,acceptable,acceptable,yes,yes,acceptable,no,yes,no,no,no,yes,,yes,no,acceptable,yes,no,2
 2,no-pair,1235,738,warm,adjective,physically warm,acceptable,acceptable,yes,yes,acceptable,yes,yes,yes,no,no,yes,,yes,yes,acceptable,yes,yes,1
 2,no-pair,1235,738,warm,adjective,"emotionally warm, inviting",unacceptable,acceptable,no,yes,acceptable,no,yes,no,no,no,yes,,yes,yes,acceptable,yes,no,2
 2,no-pair,1056,560,ample,adjective,,unacceptable,unacceptable,no,no,acceptable,no,yes,yes,no,no,no,,,,unacceptable,yes,yes,1
@@ -806,7 +745,6 @@ relatedness: something that is dull is less capable/useful as usual",unacceptabl
 2,no-pair,1069,573,bittersweet,adjective,flavor of bittersweet,unacceptable,unacceptable,no,no,unacceptable,no,no,yes,no,no,yes,,yes,no,unacceptable,yes,no,2
 2,no-pair,1064,568,at ease,adjective,,acceptable,acceptable,yes,yes,unacceptable,no,no,no,no,no,no,,,,acceptable,yes,yes,1
 2,no-pair,1228,731,tired of,adjective,I'm reading this as 'tired of X',acceptable,acceptable,yes,yes,unacceptable,no,no,no,no,no,no,,,,acceptable,yes,no,1
-2,no-pair,1232,735,void,adjective,,unacceptable,unacceptable,no,no,acceptable,no,yes,no,no,no,no,,,,unacceptable,no,yes,1
 2,no-pair,1073,577,boastful,adjective,,acceptable,acceptable,yes,yes,acceptable,no,yes,no,no,no,no,,,,acceptable,yes,no,1
 2,no-pair,1213,716,saving,adjective,,unacceptable,unacceptable,no,no,unacceptable,no,no,no,no,no,no,,,,unacceptable,yes,no,1
 2,no-pair,1074,578,bold,adjective,"physically bold, like a bright color",unacceptable,unacceptable,no,no,acceptable,yes,yes,yes,no,no,yes,,yes,unsure,acceptable,yes,no,1
@@ -838,7 +776,6 @@ relatedness: something that is dull is less capable/useful as usual",unacceptabl
 3,verb-adj,1193,696,missing,adjective,"missing - pine for, yearn",unacceptable,unacceptable,no,no,unacceptable,no,no,no,no,no,yes,,yes,yes,acceptable,yes,no,1
 3,verb-adj,1193,696,missing,adjective,missing - lost,acceptable,acceptable,yes,yes,acceptable,yes,yes,no,no,no,yes,,yes,yes,acceptable,yes,no,2
 3,verb-adj,,703,overpower,verb,,,,,,,,,,,,,,,,,,,
-3,verb-adj,1200,703,overpowered,adjective,slang,acceptable,acceptable,yes,yes,acceptable,yes,yes,no,no,no,no,,,,acceptable,no,yes,1
 3,verb-adj,1201,704,overpowering,adjective,,acceptable,acceptable,yes,yes,acceptable,yes,yes,no,no,no,no,,,,acceptable,yes,no,1
 3,verb-adj,,708,petrify,verb,,,,,,,,,,,,,,,,,,,
 3,verb-adj,1205,708,petrified,adjective,,acceptable,acceptable,yes,yes,unacceptable,no,no,no,no,no,no,,,,acceptable,no,yes,1
@@ -849,7 +786,6 @@ relatedness: something that is dull is less capable/useful as usual",unacceptabl
 3,verb-adj,1215,718,shaken,adjective,physically vibrating,acceptable,acceptable,yes,yes,acceptable,yes,yes,yes,no,no,yes,,yes,yes,acceptable,no,yes,2
 1,verb-adj,1216,718,shook-up,adjective,,acceptable,acceptable,yes,yes,unacceptable,no,no,no,no,no,no,,,,acceptable,no,yes,1
 3,verb-adj,,729,suffer,verb,,,,,,,,,,,,,,,,,,,
-3,verb-adj,1226,729,suffering,adjective,,acceptable,acceptable,yes,yes,unacceptable,no,no,no,no,no,no,,,,acceptable,yes,no,1
 3,noun-adj,161,67,arrogance,noun,,,,,,,,,,,,,,,,,,,
 3,noun-adj,162,67,arrogant,adjective,would we say that being arrogant is a cognitive state?,acceptable,acceptable,yes,yes,unacceptable,no,no,no,no,no,no,,,,acceptable,no,yes,1
 3,noun-adj,165,69,aspiration,noun,,,,,,,,,,,,,,,,,,,
@@ -914,8 +850,6 @@ relatedness: something that is dull is less capable/useful as usual",unacceptabl
 3,noun-adj,219,90,bummed,adjective,,acceptable,acceptable,yes,yes,unacceptable,no,no,no,no,no,no,,,,acceptable,no,yes,1
 3,noun-adj,220,91,burden,noun,,,,,,,,,,,,,,,,,,,
 3,noun-adj,221,91,burdened,adjective,,acceptable,acceptable,yes,yes,acceptable,yes,yes,no,no,no,no,,,,not sure,no,yes,1
-3,noun-adj,222,92,calmness,noun,,,,,,,,,,,,,,,,,,,
-3,noun-adj,223,92,calm,adjective,,acceptable,acceptable,yes,yes,acceptable,yes,yes,no,no,no,no,,,,acceptable,yes,no,1
 3,noun-adj,224,93,caution,noun,,,,,,,,,,,,,,,,,,,
 3,noun-adj,225,93,cautious,adjective,,acceptable,acceptable,yes,yes,unacceptable,no,no,no,no,no,no,,,,acceptable,no,yes,1
 3,noun-adj,226,94,challenge,noun,,,,,,,,,,,,,,,,,,,
@@ -1042,8 +976,6 @@ relatedness: something that is dull is less capable/useful as usual",unacceptabl
 3,noun-adj,881,266,glorifying,adjective,glorified might make more sense here,unacceptable,unacceptable,no,no,acceptable,no,yes,no,yes,no,no,,,,unacceptable,yes,no,1
 3,noun-adj,882,266,glorified,adjective,,acceptable,acceptable,yes,yes,acceptable,yes,yes,no,yes,no,no,,,,acceptable,no,yes,1
 3,noun-adj,883,266,glorious,adjective,,acceptable,acceptable,yes,yes,acceptable,yes,yes,no,yes,no,no,,,,acceptable,yes,no,1
-3,noun-adj,884,268,gratefulness,noun,,,,,,,,,,,,,,,,,,,
-3,noun-adj,885,268,grateful,adjective,,acceptable,acceptable,yes,yes,unacceptable,no,no,no,no,no,no,,,,acceptable,yes,no,1
 3,no-pair,887,269,grave,adjective,,acceptable,acceptable,yes,yes,acceptable,yes,yes,no,no,no,no,,,,unacceptable,unsure,unsure,1
 3,noun-adj,888,270,greatness,noun,,,,,,,,,,,,,,,,,,,
 3,noun-adj,889,270,great,adjective,,acceptable,acceptable,yes,yes,acceptable,yes,yes,no,no,no,no,,,,acceptable,yes,no,1
@@ -1067,8 +999,6 @@ relatedness: something that is dull is less capable/useful as usual",unacceptabl
 3,noun-adj,907,311,interested,adjective,,acceptable,acceptable,yes,yes,unacceptable,no,no,no,no,no,no,,,,acceptable,no,yes,1
 3,noun-adj,908,311,uninterested,adjective,,acceptable,acceptable,yes,yes,unacceptable,no,no,no,no,no,no,,,,acceptable,no,yes,1
 3,noun-adj,909,311,interesting,adjective,,acceptable,acceptable,no,yes,acceptable,no,yes,no,no,no,no,,,,acceptable,yes,no,1
-3,noun-adj,912,321,joke,noun,,,,,,,,,,,,,,,,,,,
-3,noun-adj,913,321,joking,adjective,,unacceptable,unacceptable,no,no,unacceptable,no,no,no,no,no,no,,,,acceptable,yes,no,1
 3,noun-adj,914,322,jolly,noun,,,,,,,,,,,,,,,,,,,
 3,noun-adj,915,322,jolly,adjective,,acceptable,acceptable,yes,yes,acceptable,yes,yes,no,no,no,no,,,,acceptable,unsure,unsure,1
 3,noun-adj,916,324,jubilation,noun,,,,,,,,,,,,,,,,,,,
@@ -1077,11 +1007,6 @@ relatedness: something that is dull is less capable/useful as usual",unacceptabl
 3,noun-adj,919,325,judging,adjective,,unacceptable,unacceptable,no,no,unacceptable,no,no,no,no,no,no,,,,unacceptable,yes,no,1
 3,noun-adj,920,328,kindness,noun,,,,,,,,,,,,,,,,,,,
 3,noun-adj,921,328,kind,adjective,,acceptable,acceptable,yes,yes,unacceptable,no,no,no,no,no,no,,,,acceptable,yes,no,1
-3,noun-adj,922,332,lethargy,noun,,,,,,,,,,,,,,,,,,,
-3,noun-adj,923,332,lethargic,adjective,,acceptable,acceptable,yes,yes,acceptable,yes,yes,yes,no,no,no,,,,acceptable,no,yes,1
-3,noun-adj,924,345,madness,noun,,,,,,,,,,,,,,,,,,,
-3,noun-adj,925,345,mad,adjective,angry,acceptable,acceptable,yes,yes,unacceptable,no,no,no,no,no,yes,,no,yes,acceptable,yes,no,1
-3,noun-adj,925,345,mad,adjective,"british slang, mentally ill or deranged",acceptable,acceptable,yes,yes,acceptable,yes,yes,no,no,no,yes,,no,yes,acceptable,yes,no,2
 3,noun-adj,926,347,mellowness,noun,,,,,,,,,,,,,,,,,,,
 3,noun-adj,927,347,mellow,adjective,,acceptable,acceptable,yes,yes,acceptable,yes,yes,no,no,no,no,,,,acceptable,yes,no,1
 3,noun-adj,928,354,mockery,noun,,,,,,,,,,,,,,,,,,,
@@ -1110,15 +1035,11 @@ relatedness: something that is dull is less capable/useful as usual",unacceptabl
 3,noun-adj,956,400,pride,noun,,,,,,,,,,,,,,,,,,,
 3,noun-adj,957,400,proud,adjective,"to be proud of someone, pleased",acceptable,acceptable,yes,yes,unacceptable,no,no,no,yes,no,yes,,yes,no,acceptable,no,yes,1
 3,noun-adj,957,400,proud,adjective,vain/ego,acceptable,acceptable,yes,yes,unacceptable,no,no,no,yes,no,yes,,yes,no,acceptable,no,yes,2
-3,noun-adj,958,404,question,noun,,,,,,,,,,,,,,,,,,,
-3,noun-adj,959,404,questionable,adjective,,acceptable,acceptable,yes,yes,acceptable,yes,yes,no,no,no,no,,,,acceptable,no,yes,1
 3,noun-adj,960,404,questioning,adjective,,unacceptable,unacceptable,no,no,unacceptable,no,no,no,no,no,no,,,,acceptable,yes,no,1
 3,noun-adj,961,412,relief,noun,,,,,,,,,,,,,,,,,,,
 3,noun-adj,962,412,relieved,adjective,,acceptable,acceptable,yes,yes,unacceptable,no,no,yes,no,no,no,,,,acceptable,no,yes,1
 3,noun-adj,965,426,ridicule,noun,,,,,,,,,,,,,,,,,,,
 3,noun-adj,966,426,ridiculous,adjective,,acceptable,acceptable,yes,yes,acceptable,yes,yes,no,no,no,no,,,,acceptable,unsure,unsure,1
-3,noun-adj,967,430,satisfaction,noun,,,,,,,,,,,,,,,,,,,
-3,noun-adj,968,430,satisfied,adjective,,acceptable,acceptable,yes,yes,unacceptable,no,no,no,no,no,no,,,,acceptable,no,yes,1
 3,noun-adj,969,434,security,noun,,,,,,,,,,,,,,,,,,,
 3,noun-adj,970,434,secure,adjective,,acceptable,acceptable,yes,yes,acceptable,yes,yes,no,no,no,no,,,,acceptable,yes,no,1
 3,noun-adj,971,442,sex,noun,,,,,,,,,,,,,,,,,,,
@@ -1165,12 +1086,6 @@ relatedness: something that is dull is less capable/useful as usual",unacceptabl
 3,noun-adj,1010,505,turbulent,adjective,,unacceptable,unacceptable,no,no,acceptable,yes,yes,no,yes,no,no,,,,unacceptable,yes,no,1
 3,noun-adj,1011,507,uneasiness,noun,,,,,,,,,,,,,,,,,,,
 3,noun-adj,1012,507,uneasy,adjective,,acceptable,acceptable,yes,yes,unacceptable,no,no,no,no,no,no,,,,acceptable,unsure,unsure,1
-3,noun-adj,1014,509,fortune,noun,,,,,,,,,,,,,,,,,,,
-3,noun-adj,1015,509,fortunate,adjective,,acceptable,acceptable,yes,yes,acceptable,yes,yes,no,no,no,no,,,,acceptable,no,yes,1
-3,noun-adj,1016,509,unfortunate,adjective,,acceptable,acceptable,yes,yes,acceptable,yes,yes,no,no,no,no,,,,acceptable,no,yes,1
-3,noun-adj,1019,513,satisfying,adjective,,unacceptable,unacceptable,no,yes,acceptable,yes,yes,no,no,no,no,,,,unacceptable,yes,no,1
-3,noun-adj,1020,513,unsatisfied,adjective,,acceptable,acceptable,yes,yes,unacceptable,no,no,no,no,no,no,,,,acceptable,no,yes,1
-3,noun-adj,1021,513,unsatisfying,adjective,unsatisfied would fit,unacceptable,unacceptable,no,no,acceptable,yes,yes,no,no,no,no,,,,unacceptable,yes,no,1
 3,noun-adj,1022,519,uselessness,noun,,,,,,,,,,,,,,,,,,,
 3,noun-adj,1023,519,useless,adjective,,acceptable,acceptable,yes,yes,acceptable,yes,yes,no,no,no,no,,,,acceptable,yes,no,1
 3,noun-adj,1024,520,vacancy,noun,,,,,,,,,,,,,,,,,,,
@@ -1183,8 +1098,6 @@ relatedness: something that is dull is less capable/useful as usual",unacceptabl
 3,noun-adj,1031,527,watchful,adjective,,unacceptable,unacceptable,no,no,unacceptable,no,no,no,no,no,no,,,,acceptable,no,yes,1
 3,noun-adj,1032,531,welcome,noun,,,,,,,,,,,,,,,,,,,
 3,noun-adj,1033,531,welcoming,adjective,,acceptable,acceptable,yes,yes,acceptable,yes,yes,no,no,no,no,,,,acceptable,yes,no,1
-3,noun-adj,1034,534,wish,noun,,,,,,,,,,,,,,,,,,,
-3,noun-adj,1035,534,wishful,adjective,,acceptable,acceptable,yes,yes,acceptable,no,no,no,no,no,no,,,,acceptable,no,yes,1
 3,noun-adj,1036,537,wonder,noun,,,,,,,,,,,,,,,,,,,
 3,noun-adj,1038,537,wonderful,adjective,,acceptable,acceptable,yes,yes,acceptable,yes,yes,no,no,no,no,,,,acceptable,no,yes,1
 3,noun-adj,1039,537,wondering,adjective,,unacceptable,unacceptable,no,no,unacceptable,no,no,no,no,no,no,,,,acceptable,yes,no,1
@@ -1203,9 +1116,7 @@ relatedness: something that is dull is less capable/useful as usual",unacceptabl
 3,noun-adj,1256,561,anguish,noun,,,,,,,,,,,,,,,,,,,
 3,noun-adj,1057,561,anguished,adjective,,acceptable,acceptable,yes,yes,unacceptable,no,no,no,no,no,no,,,,acceptable,no,yes,1
 3,noun-adj,1257,584,calculation,noun,,,,,,,,,,,,,,,,,,,
-3,noun-adj,1080,584,calculating,adjective,,unacceptable,unacceptable,no,no,unacceptable,no,no,no,no,no,no,,,,acceptable,yes,no,1
 3,noun-adj,1258,586,celebration,noun,,,,,,,,,,,,,,,,,,,
-3,noun-adj,1082,586,celebrating,adjective,,unacceptable,unacceptable,no,no,unacceptable,no,no,no,no,no,no,,,,acceptable,yes,no,1
 3,no-pair,1079,583,bright,adjective,"luminous, bold/vivid color",acceptable,acceptable,yes,yes,acceptable,yes,yes,no,no,no,yes,,yes,yes,acceptable,unsure,unsure,1
 3,no-pair,1079,583,bright,adjective,smart,acceptable,acceptable,yes,yes,acceptable,yes,yes,no,no,no,yes,,yes,yes,acceptable,unsure,unsure,2
 3,no-pair,1071,575,blasé,adjective,dictionary definition,acceptable,acceptable,yes,yes,acceptable,yes,yes,no,no,no,no,,,,acceptable,unsure,unsure,1
@@ -1237,8 +1148,6 @@ relatedness: something that is dull is less capable/useful as usual",unacceptabl
 3,no-pair,1101,605,dictating,adjective,,acceptable,acceptable,yes,yes,acceptable,yes,yes,no,no,no,no,,,,acceptable,yes,no,1
 3,no-pair,1105,609,dispirited,adjective,,acceptable,acceptable,yes,yes,acceptable,yes,yes,yes,no,no,no,,,,acceptable,no,yes,1
 3,no-pair,1107,611,dogged,adjective,dictionairy definition,unacceptable,unacceptable,no,no,unacceptable,no,no,no,no,no,no,,,,unacceptable,no,yes,1
-3,no-pair,1177,680,low,adjective,physically on a smaller height level,acceptable,acceptable,yes,yes,acceptable,yes,yes,no,no,no,yes,,yes,no,acceptable,unsure,unsure,1
-3,no-pair,1177,680,low,adjective,feeling down mentally,acceptable,acceptable,yes,yes,unacceptable,no,no,no,no,no,yes,,yes,no,acceptable,unsure,unsure,2
 3,no-pair,1176,679,lovesick,adjective,,acceptable,acceptable,yes,yes,unacceptable,no,no,no,yes,no,no,,,,acceptable,no,yes,1
 3,no-pair,1175,678,lost,adjective,"mentally, emotionally",acceptable,acceptable,yes,yes,unacceptable,no,no,no,no,no,yes,,yes,no,acceptable,unsure,unsure,1
 3,no-pair,1175,678,lost,adjective,"physically lost, directionally",acceptable,acceptable,yes,yes,acceptable,yes,yes,no,no,no,yes,,yes,no,acceptable,unsure,unsure,2

@@ -1,295 +1,263 @@
 Coder_ID,Pair_type,Word_ID,Word,POS,Note,They_Q1,They_Q2,Bodily_Physical,Epistemic,Behavioral_Result,Additional_Meaning,Distinctiveness,Relatedness,Causing,Caused,Meaning_label
-2,verb,3250,be captivated,verb,,yes,yes,no,no,yes,no,,,no,yes,1.0
-2,verb,3251,be creepy,verb,,yes,yes,no,no,no,no,,,yes,no,1.0
-2,verb,3252,be shaken,verb,emotionally shaken,yes,yes,no,no,no,yes,yes,yes,no,yes,1.0
-2,verb,3252,be shaken,verb,physically shaken,yes,yes,yes,no,no,yes,yes,yes,no,yes,2.0
-2,verb,3253,be choked up,verb,emotionally choked up,yes,yes,no,no,yes,yes,yes,yes,yes,yes,1.0
-2,verb,3253,be choked up,verb,physically choked up,yes,yes,yes,no,no,yes,yes,yes,yes,yes,2.0
-2,verb,3254,approve,verb,,yes,yes,no,no,no,no,,,yes,no,1.0
-2,verb,3255,resent,verb,,yes,yes,no,no,no,no,,,yes,no,1.0
-2,verb,3256,strive,verb,,yes,yes,no,no,no,no,,,yes,no,1.0
-2,verb,3257,be outraged,verb,,yes,yes,no,no,no,no,,,no,yes,1.0
-2,verb,3258,be vexed,verb,,yes,yes,no,no,no,no,,,no,yes,1.0
-2,verb,3259,be tired of,verb,,yes,yes,no,no,no,no,,,no,yes,1.0
-2,verb,3260,fall for,verb,,yes,yes,no,yes,no,no,,,unsure,unsure,1.0
-2,verb,3261,follow the example,verb,,yes,yes,no,no,no,no,,,unsure,unsure,1.0
-2,verb,3262,be astonished,verb,,yes,yes,no,no,no,no,,,no,yes,1.0
-2,verb,3263,be wistful,verb,,yes,yes,no,no,no,no,,,no,yes,1.0
-2,verb,3264,worship,verb,,yes,yes,no,yes,yes,no,,,yes,no,1.0
-2,verb,3265,wish,verb,,yes,unsure,no,no,no,no,,,yes,no,1.0
-2,verb,3266,trust,verb,,yes,yes,no,yes,no,no,,,yes,no,1.0
-2,verb,3267,be indignant,verb,,yes,yes,no,no,no,no,,,yes,no,1.0
-2,verb,3268,be strained,verb,,yes,yes,no,no,no,no,,,no,yes,1.0
-2,verb,3269,turn pale,verb,physically turn pale,yes,yes,yes,no,yes,yes,yes,yes,yes,no,1.0
-2,verb,3269,turn pale,verb,emotionally turn pale,yes,yes,no,no,yes,yes,yes,yes,yes,no,2.0
-2,verb,3270,blame,verb,,yes,unsure,no,yes,no,no,,,yes,no,1.0
-2,verb,3271,hold back,verb,emotionally hold back,yes,yes,no,no,no,yes,yes,no,yes,yes,1.0
-2,verb,3271,hold back,verb,physically hold back (like a pressing crowd),yes,yes,yes,no,no,yes,yes,no,yes,no,2.0
-2,verb,3272,cringe,verb,,yes,yes,no,no,yes,no,,,no,yes,1.0
-2,verb,3273,yearn for,verb,,yes,yes,no,no,no,no,,,yes,yes,1.0
-2,verb,3274,blame oneself,verb,,yes,yes,no,no,no,no,,,yes,no,1.0
-2,verb,3275,abhor,verb,,yes,yes,no,no,no,no,,,yes,no,1.0
-2,verb,3276,rebuke,verb,,yes,yes,no,no,no,no,,,yes,no,1.0
-2,verb,3277,be complacent,verb,,yes,yes,no,no,no,no,,,yes,no,1.0
-2,verb,3278,be fed up,verb,,yes,yes,no,no,no,no,,,yes,yes,1.0
-2,verb,3279,hesitate,verb,,yes,yes,no,no,no,no,,,yes,no,1.0
-2,verb,3280,be in sorrow,verb,,yes,yes,no,no,no,no,,,no,yes,1.0
-2,verb,3281,weary,verb,,yes,yes,no,no,yes,no,,,no,no,1.0
-2,verb,3282,be in unrequited love,verb,,yes,yes,no,no,no,no,,,yes,yes,1.0
-2,verb,3283,quail at,verb,used OED,yes,yes,no,no,no,no,,,yes,no,1.0
-2,verb,3284,get angry,verb,,yes,yes,no,no,no,no,,,yes,no,1.0
-2,verb,3285,be elated,verb,,yes,yes,no,no,no,no,,,yes,no,1.0
-2,verb,3286,enthusiastic,verb,,yes,yes,no,no,no,no,,,yes,no,1.0
-2,verb,3287,be puzzled,verb,,yes,yes,no,yes,no,no,,,no,yes,1.0
-2,verb,3288,cheer up,verb,,yes,yes,no,no,yes,no,,,yes,yes,1.0
-2,verb,3289,feel depressed,verb,,yes,yes,no,no,no,no,,,unsure,yes,1.0
-2,verb,3290,be exhilarated,verb,,yes,yes,no,no,no,no,,,no,yes,1.0
-2,verb,3291,go wild,verb,,yes,yes,no,no,yes,no,,,yes,yes,1.0
-2,verb,3292,avoid,verb,,yes,yes,no,no,yes,no,,,yes,no,1.0
-2,verb,3293,be awed by,verb,,yes,yes,no,no,no,no,,,no,yes,1.0
-2,verb,3294,pray,verb,,yes,yes,no,yes,yes,no,,,no,yes,1.0
-2,verb,3295,loathe,verb,,yes,yes,no,no,no,no,,,yes,no,1.0
-2,verb,3296,be confounded,verb,,yes,yes,no,yes,no,no,,,no,yes,1.0
-2,verb,3297,be steady,verb,emotionally steady,yes,yes,no,no,no,yes,yes,yes,yes,no,1.0
-2,verb,3297,be steady,verb,physically steady,yes,yes,yes,no,no,yes,yes,yes,yes,no,2.0
-2,verb,3298,don't mind,verb,,yes,yes,no,no,yes,no,,,yes,yes,1.0
-2,verb,3299,be afraid,verb,,yes,yes,no,no,no,no,,,no,yes,1.0
-2,verb,3300,begrudge,verb,,yes,yes,no,no,no,no,,,yes,no,1.0
-2,verb,3301,be fussy,verb,,yes,yes,no,no,yes,no,,,yes,no,1.0
-2,verb,3302,suffer,verb,,yes,yes,no,no,no,no,,,no,yes,1.0
-2,verb,3303,be relieved,verb,,yes,yes,no,no,no,no,,,no,yes,1.0
-2,verb,3304,flutter,verb,,yes,yes,yes,no,no,no,,,yes,no,1.0
-2,verb,3305,be nauseated,verb,physically nauseated,yes,yes,yes,no,yes,yes,yes,yes,no,yes,1.0
-2,verb,3305,be nauseated,verb,emotionally nauseated,yes,yes,no,no,yes,yes,yes,yes,no,yes,2.0
-2,verb,3306,be bewildered,verb,,yes,yes,no,no,no,no,,,no,yes,1.0
-2,verb,3307,desire,verb,,yes,yes,no,no,no,no,,,yes,unsure,1.0
-2,verb,3308,forgive,verb,,yes,yes,no,no,no,no,,,yes,no,1.0
-2,verb,3309,be lighthearted,verb,,yes,yes,no,no,no,no,,,yes,yes,1.0
-2,verb,3310,commune,verb,,yes,yes,no,no,no,no,,,yes,yes,1.0
-2,verb,3311,be puffed up,verb,,yes,yes,no,no,yes,unsure,,,yes,yes,1.0
-2,verb,3312,agonize,verb,,yes,yes,no,no,no,no,,,yes,no,1.0
-2,verb,3313,be sad,verb,,yes,yes,no,no,no,no,,,no,yes,1.0
-2,verb,3314,be scared,verb,,yes,yes,no,no,no,no,,,no,yes,1.0
-2,verb,3315,be surprised,verb,,yes,yes,no,no,no,no,,,no,yes,1.0
-2,verb,3316,envy,verb,,yes,yes,no,no,no,no,,,yes,no,1.0
-2,verb,3317,feel at ease,verb,emotionally at ease,yes,yes,no,no,yes,yes,yes,yes,no,yes,1.0
-2,verb,3317,feel at ease,verb,physically at ease,yes,yes,yes,no,yes,yes,yes,yes,no,yes,2.0
-2,verb,3318,be jealous,verb,,yes,yes,no,no,no,no,,,yes,no,1.0
-2,verb,3319,give up,verb,,yes,yes,no,no,yes,no,,,yes,no,1.0
-2,verb,3320,celebrate,verb,,yes,yes,no,no,yes,no,,,yes,no,1.0
-2,verb,3321,bother,verb,"irritate ""they bother me""",yes,yes,no,no,no,yes,yes,no,yes,no,1.0
-2,verb,3321,bother,verb,"care ""they bothered to show up""",yes,yes,no,no,no,yes,yes,no,yes,no,2.0
-2,verb,3322,mourn,verb,,yes,yes,no,no,yes,no,,,yes,no,1.0
-2,verb,3323,be short-tempered,verb,,yes,yes,no,no,yes,no,,,yes,no,1.0
-2,verb,3324,be content,verb,,yes,yes,no,no,no,no,,,yes,yes,1.0
-2,verb,3325,feel,verb,like touch,yes,yes,yes,no,no,yes,yes,no,yes,no,1.0
-2,verb,3325,feel,verb,like feel for something or for someone,yes,yes,no,no,no,yes,yes,no,no,yes,2.0
-2,verb,3326,be infuriated,verb,,yes,yes,no,no,no,no,,,no,yes,1.0
-2,verb,3327,content,verb,used oed,yes,yes,no,no,no,no,,,yes,no,1.0
-2,verb,3328,ignore,verb,,yes,yes,no,no,yes,no,,,yes,no,1.0
-2,verb,3329,anguish,verb,used oed,yes,yes,no,no,yes,no,,,yes,yes,1.0
-2,verb,3330,be irritated,verb,physically irritated,yes,yes,yes,no,no,yes,yes,yes,no,yes,1.0
-2,verb,3330,be irritated,verb,emotionally irritated,yes,yes,no,no,no,yes,yes,yes,no,yes,2.0
-2,verb,3331,apprehend,verb,used oed - to arrest,yes,yes,no,no,yes,yes,yes,no,yes,no,1.0
-2,verb,3331,apprehend,verb,to understand,yes,yes,no,no,no,yes,yes,no,yes,yes,2.0
-1,verb,3332,antagonize,verb,,no,yes,no,no,no,no,,,yes,no,1.0
-1,verb,3333,be frustrated,verb,,yes,yes,no,no,no,no,,,no,yes,1.0
-1,verb,3334,be fascinated,verb,,yes,yes,no,no,no,no,,,no,yes,1.0
-1,verb,3335,wonder,verb,,yes,yes,no,yes,no,no,,,yes,no,1.0
-1,verb,3336,give,verb,,no,yes,no,no,no,no,,,yes,no,1.0
-1,verb,3337,respect and love,verb,,yes,yes,no,no,no,no,,,yes,no,1.0
-1,verb,3338,value,verb,,yes,yes,no,no,no,no,,,yes,no,1.0
-1,verb,3339,turn sulky,verb,,yes,yes,no,no,yes,no,,,no,yes,1.0
-1,verb,3340,revere,verb,,yes,yes,no,no,no,no,,,yes,no,1.0
-1,verb,3341,welcome,verb,,no,yes,no,no,yes,no,,,yes,no,1.0
-1,verb,3342,be convinced,verb,,yes,yes,no,yes,no,no,,,no,yes,1.0
-1,verb,3343,overawe,verb,unfamiliar to me,no,yes,no,no,no,no,,,yes,no,1.0
-1,verb,3344,be baffled,verb,,yes,yes,no,no,no,no,,,no,yes,1.0
-1,verb,3345,worry,verb,transitive sense (they worry me),no,yes,no,no,no,yes,no,yes,yes,no,1.0
-1,verb,3345,worry,verb,intransitive sense (they worried (about something)),yes,yes,no,no,no,yes,no,yes,no,yes,2.0
-1,verb,3346,be despondent,verb,,yes,yes,no,no,no,no,,,no,yes,1.0
-1,verb,3347,flare,verb,,yes,yes,no,no,no,no,,,yes,no,1.0
-1,verb,3348,despair,verb,,yes,yes,no,no,no,no,,,no,yes,1.0
-1,verb,3349,dismay,verb,,yes,yes,no,no,no,no,,,no,no,1.0
+2,verb,3250,be captivated,verb,,yes,yes,no,no,yes,no,,,no,yes,1
+2,verb,3251,be creepy,verb,,yes,yes,no,no,no,no,,,yes,no,1
+2,verb,3252,be shaken,verb,emotionally shaken,yes,yes,no,no,no,yes,yes,yes,no,yes,1
+2,verb,3252,be shaken,verb,physically shaken,yes,yes,yes,no,no,yes,yes,yes,no,yes,2
+2,verb,3254,approve,verb,,yes,yes,no,no,no,no,,,yes,no,1
+2,verb,3255,resent,verb,,yes,yes,no,no,no,no,,,yes,no,1
+2,verb,3256,strive,verb,,yes,yes,no,no,no,no,,,yes,no,1
+2,verb,3257,be outraged,verb,,yes,yes,no,no,no,no,,,no,yes,1
+2,verb,3258,be vexed,verb,,yes,yes,no,no,no,no,,,no,yes,1
+2,verb,3259,be tired of,verb,,yes,yes,no,no,no,no,,,no,yes,1
+2,verb,3260,fall for,verb,,yes,yes,no,yes,no,no,,,unsure,unsure,1
+2,verb,3261,follow the example,verb,,yes,yes,no,no,no,no,,,unsure,unsure,1
+2,verb,3262,be astonished,verb,,yes,yes,no,no,no,no,,,no,yes,1
+2,verb,3263,be wistful,verb,,yes,yes,no,no,no,no,,,no,yes,1
+2,verb,3264,worship,verb,,yes,yes,no,yes,yes,no,,,yes,no,1
+2,verb,3265,wish,verb,,yes,unsure,no,no,no,no,,,yes,no,1
+2,verb,3266,trust,verb,,yes,yes,no,yes,no,no,,,yes,no,1
+2,verb,3267,be indignant,verb,,yes,yes,no,no,no,no,,,yes,no,1
+2,verb,3268,be strained,verb,,yes,yes,no,no,no,no,,,no,yes,1
+2,verb,3269,turn pale,verb,physically turn pale,yes,yes,yes,no,yes,yes,yes,yes,yes,no,1
+2,verb,3269,turn pale,verb,emotionally turn pale,yes,yes,no,no,yes,yes,yes,yes,yes,no,2
+2,verb,3270,blame,verb,,yes,unsure,no,yes,no,no,,,yes,no,1
+2,verb,3271,hold back,verb,emotionally hold back,yes,yes,no,no,no,yes,yes,no,yes,yes,1
+2,verb,3271,hold back,verb,physically hold back (like a pressing crowd),yes,yes,yes,no,no,yes,yes,no,yes,no,2
+2,verb,3272,cringe,verb,,yes,yes,no,no,yes,no,,,no,yes,1
+2,verb,3273,yearn for,verb,,yes,yes,no,no,no,no,,,yes,yes,1
+2,verb,3275,abhor,verb,,yes,yes,no,no,no,no,,,yes,no,1
+2,verb,3276,rebuke,verb,,yes,yes,no,no,no,no,,,yes,no,1
+2,verb,3277,be complacent,verb,,yes,yes,no,no,no,no,,,yes,no,1
+2,verb,3278,be fed up,verb,,yes,yes,no,no,no,no,,,yes,yes,1
+2,verb,3280,be in sorrow,verb,,yes,yes,no,no,no,no,,,no,yes,1
+2,verb,3281,weary,verb,,yes,yes,no,no,yes,no,,,no,no,1
+2,verb,3282,be in unrequited love,verb,,yes,yes,no,no,no,no,,,yes,yes,1
+2,verb,3283,quail at,verb,used OED,yes,yes,no,no,no,no,,,yes,no,1
+2,verb,3284,get angry,verb,,yes,yes,no,no,no,no,,,yes,no,1
+2,verb,3285,be elated,verb,,yes,yes,no,no,no,no,,,yes,no,1
+2,verb,3286,enthusiastic,verb,,yes,yes,no,no,no,no,,,yes,no,1
+2,verb,3287,be puzzled,verb,,yes,yes,no,yes,no,no,,,no,yes,1
+2,verb,3288,cheer up,verb,,yes,yes,no,no,yes,no,,,yes,yes,1
+2,verb,3289,feel depressed,verb,,yes,yes,no,no,no,no,,,unsure,yes,1
+2,verb,3290,be exhilarated,verb,,yes,yes,no,no,no,no,,,no,yes,1
+2,verb,3291,go wild,verb,,yes,yes,no,no,yes,no,,,yes,yes,1
+2,verb,3294,pray,verb,,yes,yes,no,yes,yes,no,,,no,yes,1
+2,verb,3295,loathe,verb,,yes,yes,no,no,no,no,,,yes,no,1
+2,verb,3296,be confounded,verb,,yes,yes,no,yes,no,no,,,no,yes,1
+2,verb,3297,be steady,verb,emotionally steady,yes,yes,no,no,no,yes,yes,yes,yes,no,1
+2,verb,3297,be steady,verb,physically steady,yes,yes,yes,no,no,yes,yes,yes,yes,no,2
+2,verb,3298,don't mind,verb,,yes,yes,no,no,yes,no,,,yes,yes,1
+2,verb,3300,begrudge,verb,,yes,yes,no,no,no,no,,,yes,no,1
+2,verb,3301,be fussy,verb,,yes,yes,no,no,yes,no,,,yes,no,1
+2,verb,3302,suffer,verb,,yes,yes,no,no,no,no,,,no,yes,1
+2,verb,3303,be relieved,verb,,yes,yes,no,no,no,no,,,no,yes,1
+2,verb,3304,flutter,verb,,yes,yes,yes,no,no,no,,,yes,no,1
+2,verb,3305,be nauseated,verb,physically nauseated,yes,yes,yes,no,yes,yes,yes,yes,no,yes,1
+2,verb,3305,be nauseated,verb,emotionally nauseated,yes,yes,no,no,yes,yes,yes,yes,no,yes,2
+2,verb,3306,be bewildered,verb,,yes,yes,no,no,no,no,,,no,yes,1
+2,verb,3307,desire,verb,,yes,yes,no,no,no,no,,,yes,unsure,1
+2,verb,3308,forgive,verb,,yes,yes,no,no,no,no,,,yes,no,1
+2,verb,3309,be lighthearted,verb,,yes,yes,no,no,no,no,,,yes,yes,1
+2,verb,3310,commune,verb,,yes,yes,no,no,no,no,,,yes,yes,1
+2,verb,3311,be puffed up,verb,,yes,yes,no,no,yes,unsure,,,yes,yes,1
+2,verb,3312,agonize,verb,,yes,yes,no,no,no,no,,,yes,no,1
+2,verb,3313,be sad,verb,,yes,yes,no,no,no,no,,,no,yes,1
+2,verb,3314,be scared,verb,,yes,yes,no,no,no,no,,,no,yes,1
+2,verb,3315,be surprised,verb,,yes,yes,no,no,no,no,,,no,yes,1
+2,verb,3316,envy,verb,,yes,yes,no,no,no,no,,,yes,no,1
+2,verb,3317,feel at ease,verb,emotionally at ease,yes,yes,no,no,yes,yes,yes,yes,no,yes,1
+2,verb,3317,feel at ease,verb,physically at ease,yes,yes,yes,no,yes,yes,yes,yes,no,yes,2
+2,verb,3318,be jealous,verb,,yes,yes,no,no,no,no,,,yes,no,1
+2,verb,3319,give up,verb,,yes,yes,no,no,yes,no,,,yes,no,1
+2,verb,3320,celebrate,verb,,yes,yes,no,no,yes,no,,,yes,no,1
+2,verb,3321,bother,verb,"irritate ""they bother me""",yes,yes,no,no,no,yes,yes,no,yes,no,1
+2,verb,3321,bother,verb,"care ""they bothered to show up""",yes,yes,no,no,no,yes,yes,no,yes,no,2
+2,verb,3322,mourn,verb,,yes,yes,no,no,yes,no,,,yes,no,1
+2,verb,3323,be short-tempered,verb,,yes,yes,no,no,yes,no,,,yes,no,1
+2,verb,3324,be content,verb,,yes,yes,no,no,no,no,,,yes,yes,1
+2,verb,3325,feel,verb,like touch,yes,yes,yes,no,no,yes,yes,no,yes,no,1
+2,verb,3325,feel,verb,like feel for something or for someone,yes,yes,no,no,no,yes,yes,no,no,yes,2
+2,verb,3326,be infuriated,verb,,yes,yes,no,no,no,no,,,no,yes,1
+2,verb,3327,content,verb,used oed,yes,yes,no,no,no,no,,,yes,no,1
+2,verb,3328,ignore,verb,,yes,yes,no,no,yes,no,,,yes,no,1
+2,verb,3329,anguish,verb,used oed,yes,yes,no,no,yes,no,,,yes,yes,1
+2,verb,3330,be irritated,verb,physically irritated,yes,yes,yes,no,no,yes,yes,yes,no,yes,1
+2,verb,3330,be irritated,verb,emotionally irritated,yes,yes,no,no,no,yes,yes,yes,no,yes,2
+2,verb,3331,apprehend,verb,used oed - to arrest,yes,yes,no,no,yes,yes,yes,no,yes,no,1
+2,verb,3331,apprehend,verb,to understand,yes,yes,no,no,no,yes,yes,no,yes,yes,2
+1,verb,3332,antagonize,verb,,no,yes,no,no,no,no,,,yes,no,1
+1,verb,3333,be frustrated,verb,,yes,yes,no,no,no,no,,,no,yes,1
+1,verb,3334,be fascinated,verb,,yes,yes,no,no,no,no,,,no,yes,1
+1,verb,3335,wonder,verb,,yes,yes,no,yes,no,no,,,yes,no,1
+1,verb,3336,give,verb,,no,yes,no,no,no,no,,,yes,no,1
+1,verb,3337,respect and love,verb,,yes,yes,no,no,no,no,,,yes,no,1
+1,verb,3338,value,verb,,yes,yes,no,no,no,no,,,yes,no,1
+1,verb,3339,turn sulky,verb,,yes,yes,no,no,yes,no,,,no,yes,1
+1,verb,3340,revere,verb,,yes,yes,no,no,no,no,,,yes,no,1
+1,verb,3341,welcome,verb,,no,yes,no,no,yes,no,,,yes,no,1
+1,verb,3343,overawe,verb,unfamiliar to me,no,yes,no,no,no,no,,,yes,no,1
+1,verb,3344,be baffled,verb,,yes,yes,no,no,no,no,,,no,yes,1
+1,verb,3346,be despondent,verb,,yes,yes,no,no,no,no,,,no,yes,1
+1,verb,3347,flare,verb,,yes,yes,no,no,no,no,,,yes,no,1
+1,verb,3349,dismay,verb,,yes,yes,no,no,no,no,,,no,no,1
 1,verb,3350,passionate,verb,"verb form is archaic/obsolete, not familiar to me
-going off this definition: To excite or imbue with passion, or with a particular emotion, as love, fear, anger, etc.",no,yes,no,no,no,no,,,yes,no,1.0
-1,verb,3351,be discouraged,verb,,yes,yes,no,no,no,no,,,no,yes,1.0
-1,verb,3352,look down on,verb,,yes,yes,no,no,no,no,,,yes,no,1.0
-1,verb,3353,be gleeful,verb,,yes,yes,no,no,no,no,,,yes,yes,1.0
-1,verb,3354,cry,verb,,yes,yes,no,no,yes,yes,unsure,unsure,yes,no,1.0
-1,verb,3354,cry,verb,as in shout,yes,yes,no,no,yes,yes,unsure,unsure,yes,no,2.0
-1,verb,3355,torment,verb,,no,yes,no,no,no,no,,,yes,no,1.0
-1,verb,3356,be disturbed,verb,,yes,yes,no,no,no,no,,,no,yes,1.0
-1,verb,3357,be agitated,verb,,yes,yes,no,no,no,no,,,no,yes,1.0
-1,verb,3358,vent one's anger,verb,,yes,yes,no,no,yes,no,,,yes,no,1.0
-1,verb,3359,take pains,verb,,yes,yes,no,no,no,no,,,no,yes,1.0
-1,verb,3360,disdain,verb,,yes,yes,no,no,no,no,,,yes,no,1.0
-1,verb,3361,be heartbroken,verb,,yes,yes,no,no,no,no,,,no,yes,1.0
-1,verb,3362,fall apart,verb,,yes,yes,no,no,no,no,,,no,yes,1.0
-1,verb,3363,condemn,verb,,yes,yes,no,no,yes,no,,,yes,no,1.0
-1,verb,3364,mind,verb,,yes,yes,no,no,no,no,,,yes,no,1.0
-1,verb,3365,be satisfied,verb,,yes,yes,no,no,no,no,,,no,yes,1.0
-1,verb,3366,long for,verb,,yes,yes,no,no,no,no,,,yes,yes,1.0
+going off this definition: To excite or imbue with passion, or with a particular emotion, as love, fear, anger, etc.",no,yes,no,no,no,no,,,yes,no,1
+1,verb,3351,be discouraged,verb,,yes,yes,no,no,no,no,,,no,yes,1
+1,verb,3352,look down on,verb,,yes,yes,no,no,no,no,,,yes,no,1
+1,verb,3353,be gleeful,verb,,yes,yes,no,no,no,no,,,yes,yes,1
+1,verb,3354,cry,verb,,yes,yes,no,no,yes,yes,unsure,unsure,yes,no,1
+1,verb,3354,cry,verb,as in shout,yes,yes,no,no,yes,yes,unsure,unsure,yes,no,2
+1,verb,3355,torment,verb,,no,yes,no,no,no,no,,,yes,no,1
+1,verb,3356,be disturbed,verb,,yes,yes,no,no,no,no,,,no,yes,1
+1,verb,3357,be agitated,verb,,yes,yes,no,no,no,no,,,no,yes,1
+1,verb,3358,vent one's anger,verb,,yes,yes,no,no,yes,no,,,yes,no,1
+1,verb,3359,take pains,verb,,yes,yes,no,no,no,no,,,no,yes,1
+1,verb,3360,disdain,verb,,yes,yes,no,no,no,no,,,yes,no,1
+1,verb,3361,be heartbroken,verb,,yes,yes,no,no,no,no,,,no,yes,1
+1,verb,3362,fall apart,verb,,yes,yes,no,no,no,no,,,no,yes,1
+1,verb,3363,condemn,verb,,yes,yes,no,no,yes,no,,,yes,no,1
+1,verb,3364,mind,verb,,yes,yes,no,no,no,no,,,yes,no,1
+1,verb,3365,be satisfied,verb,,yes,yes,no,no,no,no,,,no,yes,1
 1,verb,3367,consternate,verb,"unfamiliar to me
-note to self definition: transitive. To fill with amazement and terror; to dismay.",no,yes,no,no,no,no,,,yes,no,1.0
-1,verb,3368,feel guilty,verb,,yes,yes,no,no,no,no,,,no,yes,1.0
-1,verb,3369,adore,verb,,yes,yes,no,no,no,no,,,yes,no,1.0
-1,verb,3370,be conceited,verb,,yes,yes,no,no,no,no,,,no,yes,1.0
-1,verb,3371,hope,verb,,yes,yes,no,no,no,no,,,yes,no,1.0
-1,verb,3372,sorrow,verb,,yes,yes,no,no,no,no,,,yes,yes,1.0
-1,verb,3373,dislike,verb,,yes,yes,no,no,no,no,,,yes,no,1.0
-1,verb,3374,want,verb,,yes,yes,no,no,no,no,,,yes,no,1.0
-1,verb,3375,be carried away,verb,,yes,yes,no,no,no,no,,,no,yes,1.0
-1,verb,3376,save,verb,to rescue,no,yes,no,no,no,yes,yes,yes,yes,no,1.0
-1,verb,3376,save,verb,to preserve,yes,yes,no,no,no,yes,yes,yes,yes,no,2.0
-1,verb,3377,anticipate,verb,,yes,yes,no,yes,no,no,,,yes,no,1.0
-1,verb,3378,enlighten,verb,,no,yes,no,yes,no,no,,,yes,no,1.0
-1,verb,3379,be staggered,verb,,yes,yes,no,no,no,no,,,no,yes,1.0
-1,verb,3380,fear,verb,,yes,yes,no,no,no,no,,,no,yes,1.0
-1,verb,3381,distrust,verb,,yes,yes,no,no,no,no,,,yes,no,1.0
-1,verb,3382,be tightened,verb,,yes,yes,yes,no,no,no,,,no,yes,1.0
-1,verb,3383,be reluctant,verb,,yes,yes,no,no,no,no,,,no,yes,1.0
-1,verb,3384,be disheartened,verb,,yes,yes,no,no,no,no,,,no,yes,1.0
-1,verb,3385,be dispirited,verb,,yes,yes,no,no,no,no,,,no,yes,1.0
-1,verb,3386,be in agony,verb,,yes,yes,no,no,no,no,,,no,yes,1.0
-1,verb,3387,be desperate,verb,,yes,yes,no,no,no,no,,,yes,no,1.0
-1,verb,3388,be shocked,verb,,yes,yes,no,no,no,no,,,no,yes,1.0
-1,verb,3389,expect,verb,,yes,yes,no,yes,no,no,,,yes,no,1.0
-1,verb,3390,be merry,verb,,yes,yes,no,no,no,no,,,yes,yes,1.0
-1,verb,3391,be sickening,verb,,no,yes,no,no,no,no,,,yes,no,1.0
-1,verb,3392,detest,verb,,yes,yes,no,no,no,no,,,yes,no,1.0
-1,verb,3393,grieve,verb,,yes,yes,no,no,no,no,,,yes,yes,1.0
-1,verb,3394,get hurt,verb,,yes,yes,no,no,no,no,,,no,yes,1.0
-1,verb,3395,"burn one's or others' mind (fret, worry, trouble)",verb,assuming transitive sense,no,yes,no,no,no,no,,,yes,no,1.0
-1,verb,3396,point out,verb,,yes,yes,no,yes,no,no,,,yes,no,1.0
-1,verb,3397,congratulate,verb,,yes,yes,no,no,no,no,,,yes,no,1.0
-1,verb,3398,be perplexed,verb,,yes,yes,no,yes,no,no,,,no,yes,1.0
-1,verb,3399,be concerned,verb,,yes,yes,no,no,no,no,,,no,yes,1.0
-1,verb,3400,repent,verb,,yes,yes,no,no,no,no,,,yes,no,1.0
-1,verb,3401,be mad,verb,as in angry,yes,yes,no,no,no,yes,no,yes,no,yes,1.0
-1,verb,3401,be mad,verb,as in crazy,yes,yes,no,yes,no,yes,no,yes,no,yes,2.0
-1,verb,3402,appreciate,verb,,yes,yes,no,no,no,no,,,yes,no,1.0
-1,verb,3403,be happy,verb,,yes,yes,no,no,no,no,,,yes,yes,1.0
-1,verb,3404,cherish,verb,,yes,yes,no,no,no,no,,,yes,no,1.0
-1,verb,3405,prefer,verb,,yes,yes,no,no,no,no,,,yes,no,1.0
-1,verb,3406,feel pricked,verb,literal sense,yes,yes,yes,no,no,yes,yes,yes,no,yes,1.0
-1,verb,3406,feel pricked,verb,metaphorical/emotional sense,yes,yes,no,no,no,yes,yes,yes,no,yes,2.0
-1,verb,3407,be dumbfounded,verb,,yes,yes,no,no,no,no,,,no,yes,1.0
-1,verb,3408,disregard,verb,,yes,yes,no,yes,no,no,,,yes,no,1.0
-1,verb,3409,be appalled,verb,,yes,yes,no,no,no,no,,,no,yes,1.0
-1,verb,3410,be downhearted,verb,,yes,yes,no,no,no,no,,,no,yes,1.0
-1,verb,3411,reflect on,verb,,yes,yes,no,no,no,no,,,yes,no,1.0
-1,verb,3412,be nervous,verb,,yes,yes,no,no,no,no,,,no,yes,1.0
-3,verb,3413,reproach,verb,,yes,yes,no,no,yes,no,,,no,no,1.0
-3,verb,3414,aspire,verb,,yes,yes,no,no,no,no,,,no,yes,1.0
-3,verb,3415,be amazed,verb,,yes,yes,no,yes,no,no,,,no,yes,1.0
-3,verb,3416,be sick of,verb,,yes,yes,no,no,no,no,,,no,yes,1.0
-3,verb,3417,be caught,verb,,yes,no,no,no,no,no,,,no,yes,1.0
-3,verb,3418,shun,verb,,yes,no,no,no,no,no,,,no,no,1.0
-3,verb,3419,bewail,verb,,no,yes,no,no,no,no,,,no,no,1.0
-3,verb,3420,bemoan,verb,,no,yes,no,no,no,no,,,no,no,1.0
-3,verb,3421,reprimand,verb,,yes,no,no,no,yes,no,,,no,no,1.0
-3,verb,3422,love,verb,,yes,yes,no,no,no,no,,,no,no,1.0
-3,verb,3423,resign,verb,,yes,yes,no,no,yes,no,,,no,no,1.0
-3,verb,3424,be aversive,verb,,yes,yes,no,no,no,no,,,no,yes,1.0
-3,verb,3425,rejoice,verb,,yes,yes,no,no,no,no,,,no,yes,1.0
-3,verb,3426,be hostile,verb,,yes,yes,no,no,yes,no,,,no,no,1.0
-3,verb,3427,be disappointed,verb,,yes,yes,no,no,no,no,,,no,yes,1.0
-3,verb,3428,go to pieces,verb,?,unsure,unsure,no,no,no,no,,,no,no,1.0
-3,verb,3429,be pleased,verb,,yes,yes,no,no,no,no,,,no,yes,1.0
-3,verb,3430,be sickened,verb,,yes,yes,yes,no,no,no,,,no,yes,1.0
-3,verb,3431,be confident,verb,,yes,yes,no,no,no,no,,,no,yes,1.0
-3,verb,3432,lose one's temper,verb,,yes,yes,no,no,yes,no,,,no,no,1.0
-3,verb,3433,despise,verb,,yes,yes,no,no,no,no,,,no,no,1.0
-3,verb,3434,be unsettled,verb,,yes,yes,no,no,no,no,,,no,yes,1.0
-3,verb,3435,be terrified,verb,,yes,yes,no,no,no,no,,,no,yes,1.0
-3,verb,3436,waste away,verb,,no,yes,no,no,no,no,,,no,no,1.0
-3,verb,3437,pity,verb,,yes,yes,no,no,no,no,,,no,yes,1.0
-3,verb,3438,worry heavily and constantly,verb,,yes,yes,no,no,no,no,,,no,no,1.0
-3,verb,3439,alert,verb,,no,yes,no,no,yes,no,,,no,no,1.0
-3,verb,3440,regret,verb,,yes,yes,no,no,no,no,,,no,no,1.0
-3,verb,3441,be enraged,verb,,yes,yes,no,no,no,no,,,no,yes,1.0
-3,verb,3442,be pricked,verb,,yes,yes,yes,no,no,no,,,no,no,1.0
-3,verb,3443,empty,verb,,yes,yes,no,no,no,no,,,no,yes,1.0
-3,verb,3444,enjoy,verb,,unsure,yes,no,no,no,no,,,no,no,1.0
-3,verb,3445,deplore,verb,,yes,yes,no,no,no,no,,,no,no,1.0
-3,verb,3446,be apprehensive,verb,,yes,yes,no,no,no,no,,,no,yes,1.0
-3,verb,3447,be mesmerized,verb,,yes,yes,no,no,no,no,,,no,yes,1.0
-3,verb,3448,be disgusted with,verb,,yes,yes,no,no,no,no,,,no,yes,1.0
-3,verb,3449,feel awkward,verb,,yes,yes,no,no,no,no,,,no,yes,1.0
-3,verb,3450,miss,verb,emotional,yes,no,no,no,no,yes,yes,no,no,yes,1.0
-3,verb,3450,miss,verb,"to fail to do or experience something, often something planned or expected",yes,no,no,no,no,yes,yes,no,no,no,2.0
-3,verb,3451,favor,verb,,yes,yes,no,no,no,no,,,no,no,1.0
-3,verb,3452,be devastated,verb,,yes,yes,no,no,no,no,,,no,yes,1.0
-3,verb,3453,accuse,verb,,no,no,no,no,no,no,,,no,no,1.0
-3,verb,3454,be stabbed,verb,,yes,yes,yes,no,no,no,,,no,no,1.0
-3,verb,3455,relish,verb,,yes,yes,no,no,no,no,,,no,no,1.0
-3,verb,3456,get enraged,verb,,yes,yes,no,no,no,no,,,no,yes,1.0
-3,verb,3457,be delighted,verb,,yes,yes,no,no,no,no,,,no,yes,1.0
-3,verb,3458,be weary of,verb,,yes,yes,no,no,no,no,,,no,yes,1.0
-3,verb,3459,be embarrassed,verb,,yes,yes,no,no,no,no,,,no,yes,1.0
-3,verb,3460,be daunted,verb,,yes,yes,no,no,no,no,,,no,yes,1.0
-3,verb,3461,be withered,verb,,yes,yes,no,no,no,no,,,no,yes,1.0
-3,verb,3462,be hopeless,verb,,yes,yes,no,no,no,no,,,no,yes,1.0
-3,verb,3463,esteem,verb,,unsure,unsure,no,no,no,no,,,no,no,1.0
-3,verb,3464,be fanatic,verb,,yes,yes,no,no,no,no,,,no,no,1.0
-3,verb,3465,be enamored,verb,,yes,no,no,no,no,no,,,no,yes,1.0
-3,verb,3466,resentful,verb,,yes,yes,no,no,no,no,,,no,yes,1.0
-3,verb,3467,be furious,verb,,yes,yes,no,no,no,no,,,no,yes,1.0
-3,verb,3468,sympathize,verb,,yes,no,no,no,no,no,,,no,yes,1.0
-3,verb,3469,be at ease,verb,,yes,yes,no,no,no,no,,,no,no,1.0
-3,verb,3470,entice,verb,,yes,no,no,no,no,no,,,yes,no,1.0
-3,verb,3471,achieve,verb,,no,no,no,no,no,no,,,no,no,1.0
-3,verb,3472,be dumbstruck,verb,,yes,yes,no,no,no,no,,,no,yes,1.0
-3,verb,3473,be intimidated,verb,,yes,yes,no,no,no,no,,,no,yes,1.0
-3,verb,3474,admire,verb,,unsure,yes,no,no,no,no,,,no,yes,1.0
-3,verb,3475,be annoyed,verb,,yes,yes,no,no,no,no,,,no,yes,1.0
-3,verb,3476,be driven by,verb,,yes,no,no,no,no,no,,,no,yes,1.0
-3,verb,3477,lament,verb,,yes,yes,no,no,yes,no,,,no,no,1.0
-3,verb,3478,wail,verb,,yes,no,no,no,no,no,,,no,no,1.0
-3,verb,3479,be proud,verb,,yes,yes,no,no,no,no,,,no,yes,1.0
-3,verb,3480,be enraptured,verb,,yes,yes,no,no,no,no,,,no,yes,1.0
-3,verb,3481,be frantic,verb,,yes,yes,no,no,no,no,,,no,yes,1.0
-3,verb,3482,overwhelm,verb,,yes,no,no,no,no,no,,,yes,no,1.0
-3,verb,3483,contemn,verb,,yes,no,no,no,no,no,,,no,no,1.0
-3,verb,3484,be excited,verb,,yes,yes,no,no,no,no,,,no,yes,1.0
-3,verb,3485,be flabbergasted,verb,,yes,yes,no,no,no,no,,,no,yes,1.0
-3,verb,3486,treasure,verb,,unsure,no,no,no,no,no,,,no,no,1.0
-3,verb,3487,be stable,verb,,yes,yes,no,no,no,no,,,no,no,1.0
-3,verb,3488,empathize,verb,,yes,no,no,no,no,no,,,no,no,1.0
-3,verb,3489,sag,verb,,yes,no,no,no,no,no,,,no,no,1.0
-3,verb,3490,be careful,verb,,yes,no,no,no,no,no,,,no,yes,1.0
-3,verb,3491,hate,verb,,yes,no,no,no,no,no,,,no,yes,1.0
-3,verb,3492,be frightened,verb,,yes,yes,no,no,no,no,,,no,yes,1.0
-3,verb,3493,glorify,verb,,yes,no,no,no,no,no,,,yes,no,1.0
-3,verb,3494,conflict,verb,,yes,no,no,no,no,no,,,no,no,1.0
-agreement,verb,3003,be choked up,verb,2: emotionally choked up,yes,yes,no,no,yes,yes,yes,yes,no,yes,1.0
-2,verb,3003,be choked up,verb,2: physically choked up,yes,yes,yes,no,no,yes,yes,yes,yes,yes,2.0
-agreement,verb,3024,blame oneself,verb,,yes,yes,no,no,no,no,,,yes,yes,1.0
-agreement,verb,3029,hesitate,verb,,yes,yes,no,no,no,no,,,yes,no,1.0
-agreement,verb,3042,avoid,verb,,yes,yes,no,no,no,no,,,yes,no,1.0
-agreement,verb,3043,be awed by,verb,,yes,yes,no,no,no,no,,,no,yes,1.0
-agreement,verb,3049,be afraid,verb,,yes,yes,no,no,no,no,,,no,yes,1.0
-agreement,verb,3092,be convinced,verb,,yes,yes,no,no,no,no,,,no,yes,1.0
-agreement,verb,3095,worry,verb,1: intransitive sense (they worried (about something)),yes,yes,no,no,no,yes,no,yes,yes,yes,1.0
-agreement,verb,3095,worry,verb,1: transitive sense (they worry me),no,yes,no,no,no,yes,no,yes,yes,no,2.0
-agreement,verb,3098,despair,verb,,yes,yes,no,no,no,no,,,no,yes,1.0
-agreement,verb,3116,long for,verb,,yes,yes,no,no,no,no,,,yes,yes,1.0
-agreement,verb,3119,adore,verb,,yes,yes,no,no,no,no,,,yes,no,1.0
-agreement,verb,3121,hope,verb,,yes,yes,no,no,no,no,,,yes,no,1.0
-agreement,verb,3125,be carried away,verb,2: emotionally,yes,yes,no,no,no,yes,yes,no,no,yes,1.0
-2,,3125,be carried away,verb,2: physically ,yes,yes,yes,no,no,yes,yes,no,no,yes,2.0
-agreement,verb,3138,be shocked,verb,2: emotionally shocked,yes,yes,no,no,no,yes,yes,no,no,yes,1.0
-2,,3138,be shocked,verb,2: physically shocked,yes,yes,yes,no,no,yes,yes,no,no,yes,2.0
-agreement,verb,3145,"burn one's or others' mind (fret, worry, trouble)",verb,1: assuming transitive sense; 2: I don't have this expression so my answers are assumed,yes,yes,no,no,no,no,,,yes,no,1.0
-agreement,verb,3156,feel pricked,verb,1: literal sense; 2: physically pricked--unsure of other meanings,yes,yes,yes,no,no,yes,yes,yes,no,yes,1.0
-1,verb,3156,feel pricked,verb,metaphorical/emotional sense,yes,yes,no,no,no,yes,yes,yes,no,yes,2.0
-agreement,verb,3160,be downhearted,verb,2: I don't have this expression so my answers are assumed--also I couldn't figure out what the noun form is,yes,yes,no,no,no,no,,,no,yes,1.0
-agreement,verb,3177,be disappointed,verb,,yes,yes,no,no,no,no,,,no,yes,1.0
-agreement,verb,3189,alert,verb,,yes,yes,no,no,yes,no,,,yes,no,1.0
-agreement,verb,3196,be apprehensive,verb,,yes,yes,no,no,no,no,,,yes,no,1.0
-agreement,verb,3197,be mesmerized,verb,,yes,yes,no,no,no,no,,,no,yes,1.0
-agreement,verb,3198,be disgusted with,verb,,yes,yes,no,no,no,no,,,no,yes,1.0
-agreement,verb,3203,accuse,verb,,yes,yes,no,no,no,no,,,yes,no,1.0
-agreement,verb,3215,be enamored,verb,,yes,yes,no,no,no,no,,,no,yes,1.0
-agreement,verb,3233,contemn,verb,1: unfamiliar to me,yes,yes,no,no,no,no,,,yes,no,1.0
+note to self definition: transitive. To fill with amazement and terror; to dismay.",no,yes,no,no,no,no,,,yes,no,1
+1,verb,3368,feel guilty,verb,,yes,yes,no,no,no,no,,,no,yes,1
+1,verb,3370,be conceited,verb,,yes,yes,no,no,no,no,,,no,yes,1
+1,verb,3372,sorrow,verb,,yes,yes,no,no,no,no,,,yes,yes,1
+1,verb,3373,dislike,verb,,yes,yes,no,no,no,no,,,yes,no,1
+1,verb,3374,want,verb,,yes,yes,no,no,no,no,,,yes,no,1
+1,verb,3376,save,verb,to rescue,no,yes,no,no,no,yes,yes,yes,yes,no,1
+1,verb,3376,save,verb,to preserve,yes,yes,no,no,no,yes,yes,yes,yes,no,2
+1,verb,3377,anticipate,verb,,yes,yes,no,yes,no,no,,,yes,no,1
+1,verb,3378,enlighten,verb,,no,yes,no,yes,no,no,,,yes,no,1
+1,verb,3379,be staggered,verb,,yes,yes,no,no,no,no,,,no,yes,1
+1,verb,3380,fear,verb,,yes,yes,no,no,no,no,,,no,yes,1
+1,verb,3381,distrust,verb,,yes,yes,no,no,no,no,,,yes,no,1
+1,verb,3382,be tightened,verb,,yes,yes,yes,no,no,no,,,no,yes,1
+1,verb,3383,be reluctant,verb,,yes,yes,no,no,no,no,,,no,yes,1
+1,verb,3384,be disheartened,verb,,yes,yes,no,no,no,no,,,no,yes,1
+1,verb,3385,be dispirited,verb,,yes,yes,no,no,no,no,,,no,yes,1
+1,verb,3386,be in agony,verb,,yes,yes,no,no,no,no,,,no,yes,1
+1,verb,3387,be desperate,verb,,yes,yes,no,no,no,no,,,yes,no,1
+1,verb,3389,expect,verb,,yes,yes,no,yes,no,no,,,yes,no,1
+1,verb,3390,be merry,verb,,yes,yes,no,no,no,no,,,yes,yes,1
+1,verb,3391,be sickening,verb,,no,yes,no,no,no,no,,,yes,no,1
+1,verb,3392,detest,verb,,yes,yes,no,no,no,no,,,yes,no,1
+1,verb,3393,grieve,verb,,yes,yes,no,no,no,no,,,yes,yes,1
+1,verb,3394,get hurt,verb,,yes,yes,no,no,no,no,,,no,yes,1
+1,verb,3396,point out,verb,,yes,yes,no,yes,no,no,,,yes,no,1
+1,verb,3397,congratulate,verb,,yes,yes,no,no,no,no,,,yes,no,1
+1,verb,3398,be perplexed,verb,,yes,yes,no,yes,no,no,,,no,yes,1
+1,verb,3399,be concerned,verb,,yes,yes,no,no,no,no,,,no,yes,1
+1,verb,3400,repent,verb,,yes,yes,no,no,no,no,,,yes,no,1
+1,verb,3401,be mad,verb,as in angry,yes,yes,no,no,no,yes,no,yes,no,yes,1
+1,verb,3401,be mad,verb,as in crazy,yes,yes,no,yes,no,yes,no,yes,no,yes,2
+1,verb,3402,appreciate,verb,,yes,yes,no,no,no,no,,,yes,no,1
+1,verb,3403,be happy,verb,,yes,yes,no,no,no,no,,,yes,yes,1
+1,verb,3404,cherish,verb,,yes,yes,no,no,no,no,,,yes,no,1
+1,verb,3405,prefer,verb,,yes,yes,no,no,no,no,,,yes,no,1
+1,verb,3407,be dumbfounded,verb,,yes,yes,no,no,no,no,,,no,yes,1
+1,verb,3408,disregard,verb,,yes,yes,no,yes,no,no,,,yes,no,1
+1,verb,3409,be appalled,verb,,yes,yes,no,no,no,no,,,no,yes,1
+1,verb,3411,reflect on,verb,,yes,yes,no,no,no,no,,,yes,no,1
+1,verb,3412,be nervous,verb,,yes,yes,no,no,no,no,,,no,yes,1
+3,verb,3413,reproach,verb,,yes,yes,no,no,yes,no,,,no,no,1
+3,verb,3414,aspire,verb,,yes,yes,no,no,no,no,,,no,yes,1
+3,verb,3415,be amazed,verb,,yes,yes,no,yes,no,no,,,no,yes,1
+3,verb,3416,be sick of,verb,,yes,yes,no,no,no,no,,,no,yes,1
+3,verb,3417,be caught,verb,,yes,no,no,no,no,no,,,no,yes,1
+3,verb,3418,shun,verb,,yes,no,no,no,no,no,,,no,no,1
+3,verb,3419,bewail,verb,,no,yes,no,no,no,no,,,no,no,1
+3,verb,3420,bemoan,verb,,no,yes,no,no,no,no,,,no,no,1
+3,verb,3421,reprimand,verb,,yes,no,no,no,yes,no,,,no,no,1
+3,verb,3422,love,verb,,yes,yes,no,no,no,no,,,no,no,1
+3,verb,3423,resign,verb,,yes,yes,no,no,yes,no,,,no,no,1
+3,verb,3424,be aversive,verb,,yes,yes,no,no,no,no,,,no,yes,1
+3,verb,3425,rejoice,verb,,yes,yes,no,no,no,no,,,no,yes,1
+3,verb,3426,be hostile,verb,,yes,yes,no,no,yes,no,,,no,no,1
+3,verb,3428,go to pieces,verb,?,unsure,unsure,no,no,no,no,,,no,no,1
+3,verb,3429,be pleased,verb,,yes,yes,no,no,no,no,,,no,yes,1
+3,verb,3430,be sickened,verb,,yes,yes,yes,no,no,no,,,no,yes,1
+3,verb,3431,be confident,verb,,yes,yes,no,no,no,no,,,no,yes,1
+3,verb,3432,lose one's temper,verb,,yes,yes,no,no,yes,no,,,no,no,1
+3,verb,3433,despise,verb,,yes,yes,no,no,no,no,,,no,no,1
+3,verb,3434,be unsettled,verb,,yes,yes,no,no,no,no,,,no,yes,1
+3,verb,3435,be terrified,verb,,yes,yes,no,no,no,no,,,no,yes,1
+3,verb,3436,waste away,verb,,no,yes,no,no,no,no,,,no,no,1
+3,verb,3437,pity,verb,,yes,yes,no,no,no,no,,,no,yes,1
+3,verb,3438,worry heavily and constantly,verb,,yes,yes,no,no,no,no,,,no,no,1
+3,verb,3440,regret,verb,,yes,yes,no,no,no,no,,,no,no,1
+3,verb,3441,be enraged,verb,,yes,yes,no,no,no,no,,,no,yes,1
+3,verb,3442,be pricked,verb,,yes,yes,yes,no,no,no,,,no,no,1
+3,verb,3443,empty,verb,,yes,yes,no,no,no,no,,,no,yes,1
+3,verb,3444,enjoy,verb,,unsure,yes,no,no,no,no,,,no,no,1
+3,verb,3445,deplore,verb,,yes,yes,no,no,no,no,,,no,no,1
+3,verb,3449,feel awkward,verb,,yes,yes,no,no,no,no,,,no,yes,1
+3,verb,3450,miss,verb,emotional,yes,no,no,no,no,yes,yes,no,no,yes,1
+3,verb,3450,miss,verb,"to fail to do or experience something, often something planned or expected",yes,no,no,no,no,yes,yes,no,no,no,2
+3,verb,3451,favor,verb,,yes,yes,no,no,no,no,,,no,no,1
+3,verb,3452,be devastated,verb,,yes,yes,no,no,no,no,,,no,yes,1
+3,verb,3454,be stabbed,verb,,yes,yes,yes,no,no,no,,,no,no,1
+3,verb,3455,relish,verb,,yes,yes,no,no,no,no,,,no,no,1
+3,verb,3456,get enraged,verb,,yes,yes,no,no,no,no,,,no,yes,1
+3,verb,3457,be delighted,verb,,yes,yes,no,no,no,no,,,no,yes,1
+3,verb,3458,be weary of,verb,,yes,yes,no,no,no,no,,,no,yes,1
+3,verb,3459,be embarrassed,verb,,yes,yes,no,no,no,no,,,no,yes,1
+3,verb,3460,be daunted,verb,,yes,yes,no,no,no,no,,,no,yes,1
+3,verb,3461,be withered,verb,,yes,yes,no,no,no,no,,,no,yes,1
+3,verb,3462,be hopeless,verb,,yes,yes,no,no,no,no,,,no,yes,1
+3,verb,3463,esteem,verb,,unsure,unsure,no,no,no,no,,,no,no,1
+3,verb,3464,be fanatic,verb,,yes,yes,no,no,no,no,,,no,no,1
+3,verb,3466,resentful,verb,,yes,yes,no,no,no,no,,,no,yes,1
+3,verb,3467,be furious,verb,,yes,yes,no,no,no,no,,,no,yes,1
+3,verb,3468,sympathize,verb,,yes,no,no,no,no,no,,,no,yes,1
+3,verb,3469,be at ease,verb,,yes,yes,no,no,no,no,,,no,no,1
+3,verb,3470,entice,verb,,yes,no,no,no,no,no,,,yes,no,1
+3,verb,3471,achieve,verb,,no,no,no,no,no,no,,,no,no,1
+3,verb,3472,be dumbstruck,verb,,yes,yes,no,no,no,no,,,no,yes,1
+3,verb,3473,be intimidated,verb,,yes,yes,no,no,no,no,,,no,yes,1
+3,verb,3474,admire,verb,,unsure,yes,no,no,no,no,,,no,yes,1
+3,verb,3475,be annoyed,verb,,yes,yes,no,no,no,no,,,no,yes,1
+3,verb,3476,be driven by,verb,,yes,no,no,no,no,no,,,no,yes,1
+3,verb,3477,lament,verb,,yes,yes,no,no,yes,no,,,no,no,1
+3,verb,3478,wail,verb,,yes,no,no,no,no,no,,,no,no,1
+3,verb,3479,be proud,verb,,yes,yes,no,no,no,no,,,no,yes,1
+3,verb,3480,be enraptured,verb,,yes,yes,no,no,no,no,,,no,yes,1
+3,verb,3481,be frantic,verb,,yes,yes,no,no,no,no,,,no,yes,1
+3,verb,3482,overwhelm,verb,,yes,no,no,no,no,no,,,yes,no,1
+3,verb,3484,be excited,verb,,yes,yes,no,no,no,no,,,no,yes,1
+3,verb,3485,be flabbergasted,verb,,yes,yes,no,no,no,no,,,no,yes,1
+3,verb,3486,treasure,verb,,unsure,no,no,no,no,no,,,no,no,1
+3,verb,3487,be stable,verb,,yes,yes,no,no,no,no,,,no,no,1
+3,verb,3488,empathize,verb,,yes,no,no,no,no,no,,,no,no,1
+3,verb,3489,sag,verb,,yes,no,no,no,no,no,,,no,no,1
+3,verb,3490,be careful,verb,,yes,no,no,no,no,no,,,no,yes,1
+3,verb,3491,hate,verb,,yes,no,no,no,no,no,,,no,yes,1
+3,verb,3492,be frightened,verb,,yes,yes,no,no,no,no,,,no,yes,1
+3,verb,3493,glorify,verb,,yes,no,no,no,no,no,,,yes,no,1
+3,verb,3494,conflict,verb,,yes,no,no,no,no,no,,,no,no,1
+agreement,verb,3003,be choked up,verb,2: emotionally choked up,yes,yes,no,no,yes,yes,yes,yes,no,yes,1
+agreement,verb,3024,blame oneself,verb,,yes,yes,no,no,no,no,,,yes,yes,1
+agreement,verb,3029,hesitate,verb,,yes,yes,no,no,no,no,,,yes,no,1
+agreement,verb,3042,avoid,verb,,yes,yes,no,no,no,no,,,yes,no,1
+agreement,verb,3043,be awed by,verb,,yes,yes,no,no,no,no,,,no,yes,1
+agreement,verb,3049,be afraid,verb,,yes,yes,no,no,no,no,,,no,yes,1
+agreement,verb,3092,be convinced,verb,,yes,yes,no,no,no,no,,,no,yes,1
+agreement,verb,3095,worry,verb,1: intransitive sense (they worried (about something)),yes,yes,no,no,no,yes,no,yes,yes,yes,1
+agreement,verb,3095,worry,verb,1: transitive sense (they worry me),no,yes,no,no,no,yes,no,yes,yes,no,2
+agreement,verb,3098,despair,verb,,yes,yes,no,no,no,no,,,no,yes,1
+agreement,verb,3116,long for,verb,,yes,yes,no,no,no,no,,,yes,yes,1
+agreement,verb,3119,adore,verb,,yes,yes,no,no,no,no,,,yes,no,1
+agreement,verb,3121,hope,verb,,yes,yes,no,no,no,no,,,yes,no,1
+agreement,verb,3125,be carried away,verb,2: emotionally,yes,yes,no,no,no,yes,yes,no,no,yes,1
+agreement,verb,3138,be shocked,verb,2: emotionally shocked,yes,yes,no,no,no,yes,yes,no,no,yes,1
+agreement,verb,3145,"burn one's or others' mind (fret, worry, trouble)",verb,1: assuming transitive sense; 2: I don't have this expression so my answers are assumed,yes,yes,no,no,no,no,,,yes,no,1
+agreement,verb,3156,feel pricked,verb,1: literal sense; 2: physically pricked--unsure of other meanings,yes,yes,yes,no,no,yes,yes,yes,no,yes,1
+agreement,verb,3160,be downhearted,verb,2: I don't have this expression so my answers are assumed--also I couldn't figure out what the noun form is,yes,yes,no,no,no,no,,,no,yes,1
+agreement,verb,3177,be disappointed,verb,,yes,yes,no,no,no,no,,,no,yes,1
+agreement,verb,3189,alert,verb,,yes,yes,no,no,yes,no,,,yes,no,1
+agreement,verb,3196,be apprehensive,verb,,yes,yes,no,no,no,no,,,yes,no,1
+agreement,verb,3197,be mesmerized,verb,,yes,yes,no,no,no,no,,,no,yes,1
+agreement,verb,3198,be disgusted with,verb,,yes,yes,no,no,no,no,,,no,yes,1
+agreement,verb,3203,accuse,verb,,yes,yes,no,no,no,no,,,yes,no,1
+agreement,verb,3215,be enamored,verb,,yes,yes,no,no,no,no,,,no,yes,1
+agreement,verb,3233,contemn,verb,1: unfamiliar to me,yes,yes,no,no,no,no,,,yes,no,1

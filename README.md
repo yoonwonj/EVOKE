@@ -14,7 +14,7 @@ This work is licensed under a
 
 ---
 ## About the dataset
-The dataset offers comprehensive coverage of emotion words in each language, in addition to many-to-many translations between words in the two languages and identification of language-specific emotion words (or cross-lingual lexical gaps). The dataset contains 1,427 Korean words and 1,399 English words, and we systematically annotate 819 Korean and 924 English djectives and verbs.
+The dataset offers comprehensive coverage of emotion words in each language, in addition to many-to-many translations between words in the two languages and identification of language-specific emotion words (or cross-lingual lexical gaps). The dataset contains 1,426 Korean words and 1,397 English words, and we systematically annotate 819 Korean and 924 English djectives and verbs.
 
 ## Structure of the dataset
 The dataset consists of three separate components (see Figure 1):

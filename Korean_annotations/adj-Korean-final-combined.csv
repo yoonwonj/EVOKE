@@ -88,7 +88,7 @@
 2,no-pair,118,59,경이롭다,adjective,,acceptable,경이롭다고,acceptable,경이롭다고,yes,yes,acceptable,경이롭다고,no,yes,no,no,no,no,,,,acceptable,경이롭다,yes,yes,1
 2,no-pair,119,60,경청하는,adjective,,unacceptable,경청한다고,unacceptable,경청한다고,no,no,unacceptable,경청한다고,no,no,no,no,no,no,,,,acceptable,경청한다,no,no,1
 2,noun-adj,120,61,경쾌,noun,,,,,,,,,,,,,,,,,,,,,,,
-2,noun-adj,121,62,경쾌하다,adjective,would make more sense if an object is given,acceptable,경쾌하다고,acceptable,경쾌하다고,yes,yes,unacceptable,경쾌하다고,no,no,no,no,no,no,,,,acceptable,경쾌하다,yes,yes,1
+2,noun-adj,121,61,경쾌하다,adjective,would make more sense if an object is given,acceptable,경쾌하다고,acceptable,경쾌하다고,yes,yes,unacceptable,경쾌하다고,no,no,no,no,no,no,,,,acceptable,경쾌하다,yes,yes,1
 2,noun-adj,122,63,경탄하는,adjective,add 'ㄴ' 받침,unacceptable,경탄한다고,unacceptable,경탄한다고,no,no,unacceptable,경탄한다고,no,no,no,no,no,no,,,,acceptable,경탄한다,no,yes,1
 2,noun-adj,1381,63,경탄,noun,,,,,,,,,,,,,,,,,,,,,,,
 2,noun-adj,124,64,고뇌,noun,,,,,,,,,,,,,,,,,,,,,,,
@@ -114,7 +114,7 @@
 2,noun-adj,148,77,곤혹,noun,,,,,,,,,,,,,,,,,,,,,,,
 2,noun-adj,149,77,곤혹스럽다,adjective,,acceptable,곤혹스럽다고,acceptable,곤혹스럽다고,yes,no,unacceptable,곤혹스럽다고,no,no,no,no,no,no,,,,acceptable,곤혹스럽다,yes,yes,1
 2,noun-adj,153,80,공격,noun,,,,,,,,,,,,,,,,,,,,,,,
-2,noun-adj,154,81,공격적이다,adjective,use '라고' instead of '다',acceptable,공격적이라고,acceptable,공격적이라고,yes,yes,acceptable,공격적이라고,no,yes,no,no,no,no,,,,acceptable,공격적이다,yes,yes,1
+2,noun-adj,154,80,공격적이다,adjective,use '라고' instead of '다',acceptable,공격적이라고,acceptable,공격적이라고,yes,yes,acceptable,공격적이라고,no,yes,no,no,no,no,,,,acceptable,공격적이다,yes,yes,1
 2,noun-adj,155,82,공상,noun,,,,,,,,,,,,,,,,,,,,,,,
 2,noun-adj,156,82,공상적이다,adjective,use '라고' instead of '다',unacceptable,공상적이라고,acceptable,공상적이라고,no,yes,unacceptable,공상적이라고,no,no,no,no,no,no,,,,acceptable,공상적이다,yes,yes,1
 2,noun-adj,157,83,공정하다,adjective,,acceptable,공정하다고,acceptable,공정하다고,yes,yes,unacceptable,공정하다고,no,no,no,no,no,no,,,,acceptable,공정하다,yes,no,1
@@ -164,8 +164,8 @@
 3,noun-adj,201,110,기겁,noun,,,,,,,,,,,,,,,,,,,,,,,
 3,noun-adj,1389,110,기겁하는,adjective,,acceptable,기겁한다고,acceptable,기겁한다고,yes,no,unacceptable,기겁한다고,no,no,no,no,yes,no,,,,acceptable,기겁한다,yes,no,1
 3,noun-adj,203,112,기고만장,noun,,,,,,,,,,,,,,,,,,,,,,,
-3,noun-adj,204,113,기고만장하다,adjective,"meaning as ""우쭐하다""   \ It_feel question: In my insight, it sounds like my evaluation of them",acceptable,기고만장하다고,acceptable,기고만장하다고,yes,yes,unacceptable,기고만장하다고,no,no,no,no,no,yes,,yes,no,acceptable,기고만장하다,no,no,1
-3,noun-adj,204,113,기고만장하다,adjective,"meaning as ""몹시 화가 나다""   /I_am Q2: I upset because of others. so it can be yes.",acceptable,기고만장하다고,acceptable,기고만장하다고,yes,no,unacceptable,기고만장하다고,no,no,no,no,no,yes,,yes,no,acceptable,기고만장하다,yes,no,2
+3,noun-adj,204,112,기고만장하다,adjective,"meaning as ""우쭐하다""   \ It_feel question: In my insight, it sounds like my evaluation of them",acceptable,기고만장하다고,acceptable,기고만장하다고,yes,yes,unacceptable,기고만장하다고,no,no,no,no,no,yes,,yes,no,acceptable,기고만장하다,no,no,1
+3,noun-adj,204,112,기고만장하다,adjective,"meaning as ""몹시 화가 나다""   /I_am Q2: I upset because of others. so it can be yes.",acceptable,기고만장하다고,acceptable,기고만장하다고,yes,no,unacceptable,기고만장하다고,no,no,no,no,no,yes,,yes,no,acceptable,기고만장하다,yes,no,2
 3,no-pair,208,116,기껍다,adjective,,acceptable,기껍다고,acceptable,기껍다고,yes,no,unacceptable,기껍다고,no,no,no,no,no,no,,,,acceptable,기껍다,yes,no,1
 3,noun-adj,209,117,기대,noun,,,,,,,,,,,,,,,,,,,,,,,
 3,noun-adj,1390,117,기대하는,adjective,,acceptable,기대한다고,acceptable,기대한다고,yes,no,unacceptable,기대한다고,no,no,no,no,no,no,,,,acceptable,기대한다,yes,no,1
@@ -244,9 +244,6 @@
 1,noun-adj,301,166,달달함,noun,,,,,,,,,,,,,,,,,,,,,,,
 1,noun-adj,303,169,담담하다,adjective,,not sure,담담하다고,not sure,담담하다고,yes,no,unacceptable,담담하다고,no,no,no,no,no,no,,,,acceptable,담담하다,no,yes,1
 1,noun-adj,304,169,담담함,noun,,,,,,,,,,,,,,,,,,,,,,,
-1,noun-adj,305,170,답답하다,adjective,,acceptable,답답하다고,acceptable,답답하다고,yes,no,unacceptable,답답하다고,no,no,no,no,no,yes,,yes,yes,acceptable,답답하다,yes,yes,1
-1,noun-adj,305,170,답답하다,adjective,,acceptable,답답하다고,acceptable,답답하다고,yes,no,unacceptable,답답하다고,no,no,no,no,yes,yes,,yes,yes,acceptable,답답하다,yes,yes,2
-1,noun-adj,306,170,답답함,noun,,,,,,,,,,,,,,,,,,,,,,,
 1,noun-adj,307,171,당당하다,adjective,,acceptable,당당하다고,acceptable,당당하다고,no,no,unacceptable,당당하다고,no,no,no,no,no,no,,,,acceptable,당당하다,no,no,1
 1,noun-adj,308,171,당당함,noun,,,,,,,,,,,,,,,,,,,,,,,
 1,noun-adj,309,172,당혹,noun,,,,,,,,,,,,,,,,,,,,,,,
@@ -639,7 +636,6 @@
 2,noun-adj,792,347,안심,noun,,,,,,,,,,,,,,,,,,,,,,,
 2,noun-adj,793,347,안심하는,adjective,get rid of '는' and add 'ㄴ' 받침,acceptable,안심한다고,acceptable,안심한다고,yes,no,unacceptable,안심한다고,no,no,no,no,no,no,,,,acceptable,안심한다,no,yes,1
 3,no-pair,894,347,오판된,adjective,Feel question: it is acceptable but need object. It means 'I judge something '오판' ;,acceptable,오판된다고,acceptable,오판된다고,yes,no,acceptable,오판된다고,no,yes,no,no,no,no,,,,acceptable,오판된다,yes,yes,1
-2,no-pair,795,348,안쓰럽다,adjective,makes more sense with an object,acceptable,안쓰럽다고,unacceptable,안쓰럽다고,no,no,acceptable,안쓰럽다고,no,yes,no,no,no,no,,,,acceptable,안쓰럽다,yes,yes,1
 3,noun-adj,895,348,온정,noun,,,,,,,,,,,,,,,,,,,,,,,
 3,noun-adj,896,348,온정적인,adjective,mind or thought is '온정',acceptable,온정적이라고,acceptable,온정적이라고,yes,no,unacceptable,온정적이라고,no,no,no,no,no,no,,,,acceptable,온정적이다,no,no,1
 2,no-pair,796,349,안전한,adjective,,acceptable,안전하다고,acceptable,안전하다고,yes,no,acceptable,안전하다고,no,yes,no,no,no,no,,,,acceptable,안전하다,yes,yes,1
@@ -667,7 +663,7 @@
 3,noun-adj,907,356,용감하다,adjective,,acceptable,용감하다고,acceptable,용감하다고,yes,yes,unacceptable,용감하다고,no,no,no,no,no,no,,,,acceptable,용감하다,no,no,1
 3,noun-adj,908,356,용감함,noun,,,,,,,,,,,,,,,,,,,,,,,
 2,noun-adj,813,357,앙심,noun,,,,,,,,,,,,,,,,,,,,,,,
-2,noun-adj,814,358,앙심을 품은,adjective,replace '은' to '는'; becomes verb in I AM part,unacceptable,앙심을 품는다고,unacceptable,앙심을 품는다고,no,no,unacceptable,앙심을 품는다고,no,no,no,no,no,no,,,,acceptable,앙심을 품는다,no,yes,1
+2,noun-adj,814,357,앙심을 품은,adjective,replace '은' to '는'; becomes verb in I AM part,unacceptable,앙심을 품는다고,unacceptable,앙심을 품는다고,no,no,unacceptable,앙심을 품는다고,no,no,no,no,no,no,,,,acceptable,앙심을 품는다,no,yes,1
 3,noun-adj,910,358,용서,noun,,,,,,,,,,,,,,,,,,,,,,,
 3,noun-adj,911,358,용서하는,adjective,용서' is not in domain of 'Feel'. it sounds awqward ,unacceptable,용서한다고,unacceptable,용서한다고,yes,no,unacceptable,용서한다고,no,no,no,no,no,no,,,,acceptable,용서한다,no,no,1
 2,noun-adj,815,359,애,noun,,,,,,,,,,,,,,,,,,,,,,,
@@ -844,8 +840,6 @@
 2,noun-adj,1252,480,필요하다,adjective,object needed,unacceptable,필요하다고,unacceptable,필요하다고,no,no,unacceptable,필요하다고,no,no,no,no,no,no,,,,acceptable,필요하다,no,yes,1
 2,no-pair,1253,481,하찮다,adjective,makes more sense with an object,acceptable,하찮다고,acceptable,하찮다고,yes,yes,acceptable,하찮다고,no,yes,no,no,no,no,,,,acceptable,하찮다,yes,yes,1
 2,no-pair,1254,482,학대당한,adjective,,acceptable,학대당한다고,acceptable,학대당한다고,yes,no,unacceptable,학대당한다고,no,no,no,no,no,no,,,,acceptable,학대당한다,no,yes,1
-2,noun-adj,1255,483,한심하다,adjective,,acceptable,한심하다고,acceptable,한심하다고,yes,no,unacceptable,한심하다고,no,no,no,no,no,no,,,,acceptable,한심하다,yes,yes,1
-2,noun-adj,1256,483,한심함,noun,,,,,,,,,,,,,,,,,,,,,,,
 2,no-pair,1262,488,해맑다,adjective,object omitted,unacceptable,해맑다고,acceptable,해맑다고,no,yes,unacceptable,해맑다고,no,no,no,no,no,no,,,,acceptable,해맑다,yes,yes,1
 2,noun-adj,1263,489,행복,noun,,,,,,,,,,,,,,,,,,,,,,,
 2,noun-adj,1264,489,행복하다,adjective,,acceptable,행복하다고,acceptable,행복하다고,yes,no,unacceptable,행복하다고,no,no,no,no,no,no,,,,acceptable,행복하다,yes,yes,1
@@ -891,7 +885,6 @@ all,noun-adj,1038,10006,절박감,noun,,,,,,,,,,,,,,,,,,,,,,,
 all,noun-adj,1426,10006,절박하다,adjective,,acceptable,절박하다고,acceptable,절박하다고,yes,no,unacceptable,절박하다고,no,no,no,no,no,no,,,,acceptable,절박하다,yes,yes,1
 all,noun-adj,1039,10007,절실하다,adjective,,acceptable,절실하다고,acceptable,절실하다고,yes,no,unacceptable,절실하다고,no,no,no,no,no,no,,,,acceptable,절실하다,no,yes,1
 all,noun-adj,1040,10007,절실함,noun,,,,,,,,,,,,,,,,,,,,,,,
-all,noun-adj,1041,10008,절절하다,adjective,,acceptable,절절하다고,acceptable,절절하다고,yes,no,unacceptable,절절하다고,no,no,no,no,no,no,,,,acceptable,절절하다,yes,yes,1
 all,noun-adj,1042,10008,절절함,noun,,,,,,,,,,,,,,,,,,,,,,,
 all,noun-adj,1046,10012,조마조마하다,adjective,,acceptable,조마조마하다고,acceptable,조마조마하다고,yes,no,unacceptable,조마조마하다고,no,no,no,no,no,no,,,,acceptable,조마조마하다,yes,yes,1
 all,noun-adj,1047,10012,조마조마함,noun,,,,,,,,,,,,,,,,,,,,,,,
@@ -1060,5 +1053,5 @@ agreement,noun-adj,1500,10212,아쉽다,adjective,,acceptable,아쉽다고,accep
 agreement,noun-adj,1502,10214,안쓰러움,noun,,,,,,,,,,,,,,,,,,,,,,,
 agreement,noun-adj,1503,10214,안쓰럽다,adjective,2: object required,acceptable,안쓰럽다고,acceptable,안쓰럽다고,yes,no,unacceptable,안쓰럽다고,no,no,no,no,no,no,,,,acceptable,안쓰럽다,yes,yes,1
 agreement,noun-adj,1507,10216,야속함,noun,,,,,,,,,,,,,,,,,,,,,,,
-agreement,noun-adj,1506,10217,야속하다,adjective,2: object required,acceptable,야속하다고,acceptable,야속하다고,yes,no,unacceptable,야속하다고,no,no,no,no,no,no,,,,acceptable,야속하다,yes,yes,1
+agreement,noun-adj,1506,10216,야속하다,adjective,2: object required,acceptable,야속하다고,acceptable,야속하다고,yes,no,unacceptable,야속하다고,no,no,no,no,no,no,,,,acceptable,야속하다,yes,yes,1
 agreement,no-pair,1515,10219,지시하는,adjective,2: becomes verb in I AM part; 3: 지시' doesn't need feel. it looks awkward ,unacceptable,지시한다고,unacceptable,지시한다고,no,no,unacceptable,지시한다고,no,no,no,no,no,no,,,,acceptable,지시한다,no,no,1
